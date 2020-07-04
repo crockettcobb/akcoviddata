@@ -108,19 +108,20 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-17,13,9,0,1,Statewide,240
 2020-06-18,12,9,0,1,Statewide,243
 2020-06-19,15,12,0,0,Statewide,246
-2020-06-20,9,3,0,0,Statewide,252
-2020-06-21,10,4,0,0,Statewide,258
-2020-06-22,12,6,0,0,Statewide,264
-2020-06-23,13,5,0,0,Statewide,272
-2020-06-24,24,3,0,0,Statewide,293
-2020-06-25,16,3,0,0,Statewide,306
-2020-06-26,17,1,0,0,Statewide,322
-2020-06-27,25,2,0,0,Statewide,345
-2020-06-28,19,0,0,0,Statewide,364
-2020-06-29,34,1,0,1,Statewide,397
-2020-06-30,34,4,0,1,Statewide,427
-2020-07-01,38,0,0,0,Statewide,465
-2020-07-02,45,1,0,0,Statewide,509
+2020-06-20,9,4,0,0,Statewide,251
+2020-06-21,10,4,0,0,Statewide,257
+2020-06-22,13,6,0,0,Statewide,264
+2020-06-23,14,5,0,0,Statewide,273
+2020-06-24,24,3,0,0,Statewide,294
+2020-06-25,16,3,0,0,Statewide,307
+2020-06-26,17,1,0,0,Statewide,323
+2020-06-27,26,2,0,0,Statewide,347
+2020-06-28,19,2,0,0,Statewide,364
+2020-06-29,32,3,0,1,Statewide,393
+2020-06-30,34,4,0,1,Statewide,423
+2020-07-01,37,0,0,0,Statewide,460
+2020-07-02,45,1,0,2,Statewide,504
+2020-07-03,48,0,1,1,Statewide,551
 2020-03-03,3,0,0,0,Anchorage,3
 2020-03-04,1,0,0,0,Anchorage,4
 2020-03-05,0,0,0,0,Anchorage,4
@@ -232,17 +233,18 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-19,6,4,0,0,Anchorage,138
 2020-06-20,3,0,0,0,Anchorage,141
 2020-06-21,4,0,0,0,Anchorage,145
-2020-06-22,8,3,0,0,Anchorage,150
-2020-06-23,7,3,0,0,Anchorage,154
-2020-06-24,6,3,0,0,Anchorage,157
-2020-06-25,5,3,0,0,Anchorage,159
-2020-06-26,8,1,0,0,Anchorage,166
-2020-06-27,12,0,0,0,Anchorage,178
-2020-06-28,5,0,0,0,Anchorage,183
-2020-06-29,19,1,0,0,Anchorage,201
-2020-06-30,14,2,0,1,Anchorage,213
-2020-07-01,15,0,0,0,Anchorage,228
-2020-07-02,21,0,0,0,Anchorage,249
+2020-06-22,9,3,0,0,Anchorage,151
+2020-06-23,7,3,0,0,Anchorage,155
+2020-06-24,6,3,0,0,Anchorage,158
+2020-06-25,6,3,0,0,Anchorage,161
+2020-06-26,8,1,0,0,Anchorage,168
+2020-06-27,12,0,0,0,Anchorage,180
+2020-06-28,5,0,0,0,Anchorage,185
+2020-06-29,17,3,0,0,Anchorage,199
+2020-06-30,14,2,0,1,Anchorage,211
+2020-07-01,15,0,0,0,Anchorage,226
+2020-07-02,21,0,0,0,Anchorage,247
+2020-07-03,32,0,1,1,Anchorage,278
 2020-03-03,0,0,0,0,Gulf Coast,0
 2020-03-04,0,0,0,0,Gulf Coast,0
 2020-03-05,0,0,0,0,Gulf Coast,0
@@ -365,6 +367,7 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-30,5,0,0,0,Gulf Coast,67
 2020-07-01,5,0,0,0,Gulf Coast,72
 2020-07-02,5,0,0,0,Gulf Coast,77
+2020-07-03,1,0,0,0,Gulf Coast,78
 2020-03-03,0,0,0,0,Interior,0
 2020-03-04,0,0,0,0,Interior,0
 2020-03-05,0,0,0,0,Interior,0
@@ -486,7 +489,8 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-29,6,0,0,1,Interior,61
 2020-06-30,6,2,0,0,Interior,65
 2020-07-01,4,0,0,0,Interior,69
-2020-07-02,10,1,0,0,Interior,78
+2020-07-02,10,1,0,1,Interior,78
+2020-07-03,5,0,0,0,Interior,83
 2020-03-03,0,0,0,0,MatSu,0
 2020-03-04,0,0,0,0,MatSu,0
 2020-03-05,0,0,0,0,MatSu,0
@@ -596,19 +600,20 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-17,2,3,0,0,MatSu,18
 2020-06-18,0,0,0,0,MatSu,18
 2020-06-19,1,2,0,0,MatSu,17
-2020-06-20,1,2,0,0,MatSu,16
-2020-06-21,3,0,0,0,MatSu,19
-2020-06-22,1,1,0,0,MatSu,19
-2020-06-23,2,0,0,0,MatSu,21
+2020-06-20,1,3,0,0,MatSu,15
+2020-06-21,3,0,0,0,MatSu,18
+2020-06-22,1,1,0,0,MatSu,18
+2020-06-23,3,0,0,0,MatSu,21
 2020-06-24,2,0,0,0,MatSu,23
-2020-06-25,4,0,0,0,MatSu,27
-2020-06-26,4,0,0,0,MatSu,31
-2020-06-27,5,0,0,0,MatSu,36
-2020-06-28,3,0,0,0,MatSu,39
-2020-06-29,2,0,0,0,MatSu,41
-2020-06-30,7,0,0,0,MatSu,48
-2020-07-01,13,0,0,0,MatSu,61
-2020-07-02,5,0,0,0,MatSu,66
+2020-06-25,3,0,0,0,MatSu,26
+2020-06-26,4,0,0,0,MatSu,30
+2020-06-27,6,0,0,0,MatSu,36
+2020-06-28,3,1,0,0,MatSu,38
+2020-06-29,2,0,0,0,MatSu,40
+2020-06-30,7,0,0,0,MatSu,47
+2020-07-01,12,0,0,0,MatSu,59
+2020-07-02,5,0,0,1,MatSu,64
+2020-07-03,7,0,0,0,MatSu,71
 2020-03-03,0,0,0,0,Northern,0
 2020-03-04,0,0,0,0,Northern,0
 2020-03-05,0,0,0,0,Northern,0
@@ -731,6 +736,7 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-30,1,0,0,0,Northern,8
 2020-07-01,0,0,0,0,Northern,8
 2020-07-02,1,0,0,0,Northern,9
+2020-07-03,0,0,0,0,Northern,9
 2020-03-03,0,0,0,0,Southwest,0
 2020-03-04,0,0,0,0,Southwest,0
 2020-03-05,0,0,0,0,Southwest,0
@@ -853,6 +859,7 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-30,0,0,0,0,Southwest,8
 2020-07-01,0,0,0,0,Southwest,8
 2020-07-02,2,0,0,0,Southwest,10
+2020-07-03,2,0,0,0,Southwest,12
 2020-03-03,0,0,0,0,Southeast,0
 2020-03-04,0,0,0,0,Southeast,0
 2020-03-05,1,0,0,0,Southeast,1
@@ -970,8 +977,9 @@ date,cases,recoveries,deaths,hospitalizations,region,active_cases
 2020-06-25,2,0,0,0,Southeast,15
 2020-06-26,0,0,0,0,Southeast,15
 2020-06-27,1,0,0,0,Southeast,16
-2020-06-28,0,0,0,0,Southeast,16
-2020-06-29,1,0,0,0,Southeast,17
-2020-06-30,1,0,0,0,Southeast,18
-2020-07-01,1,0,0,0,Southeast,19
-2020-07-02,1,0,0,0,Southeast,20
+2020-06-28,0,1,0,0,Southeast,15
+2020-06-29,1,0,0,0,Southeast,16
+2020-06-30,1,0,0,0,Southeast,17
+2020-07-01,1,0,0,0,Southeast,18
+2020-07-02,1,0,0,0,Southeast,19
+2020-07-03,1,0,0,0,Southeast,20
