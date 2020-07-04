@@ -1,7 +1,7 @@
 import pandas as pd
-import chartify
 
-def main():
+
+def read_and_parse():
     '''
     This will load data from the Alaska State Department of Health and 
     Human Services  and parse it into a standard format CSV 
@@ -31,13 +31,13 @@ def main():
     df_cases['date'] = pd.to_datetime(df_cases['date']).dt.date
     df_cases.to_csv('../data/parsed/cases.csv', index=False)
     
-tests_map = {
-    'Date' : 'date',
-    'daily_ASPHL' : 'tests_ASPHL',
-    'daily_Commercial' : 'tests_commercial',
-    'daily_POC' : 'tests_POC', 
-    'daily_total' : 'tests_total',
-}
+    tests_map = {
+        'Date' : 'date',
+        'daily_ASPHL' : 'tests_ASPHL',
+        'daily_Commercial' : 'tests_commercial',
+        'daily_POC' : 'tests_POC', 
+        'daily_total' : 'tests_total',
+    }
 
     df_tests = df_tests[list(tests_map.keys())].copy()
     df_tests = df_tests.rename(columns=tests_map)
@@ -45,4 +45,4 @@ tests_map = {
     
 
 if __name__ == '__main__':
-    main()
+    read_and_parse()
