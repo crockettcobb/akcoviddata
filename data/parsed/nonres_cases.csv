@@ -1,0 +1,115 @@
+date,region,nonresident_cases
+2020-03-12,Anchorage,1
+2020-04-04,Interior,1
+2020-04-08,Anchorage,1
+2020-04-10,Anchorage,1
+2020-04-15,Interior,1
+2020-05-06,Gulf Coast,1
+2020-05-08,Anchorage,1
+2020-05-14,Anchorage,1
+2020-05-15,Southwest,1
+2020-05-16,Anchorage,1
+2020-05-19,Anchorage,2
+2020-05-22,Gulf Coast,1
+2020-05-24,Gulf Coast,2
+2020-05-25,Anchorage,2
+2020-05-28,Gulf Coast,1
+2020-05-29,Gulf Coast,1
+2020-05-29,Southwest,1
+2020-05-30,Southwest,1
+2020-06-01,Gulf Coast,1
+2020-06-02,Anchorage,1
+2020-06-03,Anchorage,1
+2020-06-03,Gulf Coast,13
+2020-06-03,Southeast,1
+2020-06-03,Southwest,3
+2020-06-04,Anchorage,2
+2020-06-05,Anchorage,2
+2020-06-06,Anchorage,1
+2020-06-07,Gulf Coast,1
+2020-06-08,Southwest,2
+2020-06-09,Gulf Coast,1
+2020-06-09,Southeast,1
+2020-06-10,Anchorage,5
+2020-06-10,MatSu,1
+2020-06-10,Southeast,1
+2020-06-10,Southwest,1
+2020-06-11,Anchorage,3
+2020-06-11,Southeast,2
+2020-06-11,Southwest,2
+2020-06-12,Gulf Coast,1
+2020-06-12,Interior,1
+2020-06-12,Southeast,6
+2020-06-13,Anchorage,2
+2020-06-13,Southwest,1
+2020-06-14,Southwest,1
+2020-06-15,Anchorage,1
+2020-06-16,Interior,3
+2020-06-16,Northern,1
+2020-06-16,Southeast,1
+2020-06-17,Anchorage,4
+2020-06-17,Interior,2
+2020-06-17,Southwest,1
+2020-06-18,Anchorage,2
+2020-06-18,Gulf Coast,2
+2020-06-18,Southeast,1
+2020-06-18,Southwest,7
+2020-06-19,Interior,1
+2020-06-19,Southeast,1
+2020-06-20,Anchorage,1
+2020-06-20,Southeast,1
+2020-06-21,Southeast,4
+2020-06-22,Anchorage,1
+2020-06-22,Gulf Coast,2
+2020-06-22,Interior,2
+2020-06-22,Southeast,2
+2020-06-22,Southwest,11
+2020-06-23,Anchorage,1
+2020-06-23,Gulf Coast,1
+2020-06-23,Interior,4
+2020-06-23,MatSu,1
+2020-06-23,Southwest,2
+2020-06-24,Anchorage,2
+2020-06-24,Gulf Coast,2
+2020-06-24,Southeast,2
+2020-06-24,Southwest,13
+2020-06-25,Anchorage,3
+2020-06-25,Northern,1
+2020-06-25,Southeast,1
+2020-06-25,Southwest,6
+2020-06-26,Anchorage,2
+2020-06-26,Gulf Coast,1
+2020-06-26,Interior,1
+2020-06-26,Southeast,1
+2020-06-26,Southwest,3
+2020-06-27,Interior,2
+2020-06-27,Southwest,1
+2020-06-28,Anchorage,1
+2020-06-28,Gulf Coast,2
+2020-06-28,MatSu,1
+2020-06-29,Anchorage,1
+2020-06-29,Gulf Coast,3
+2020-06-29,Southeast,1
+2020-06-29,Southwest,6
+2020-06-30,Anchorage,1
+2020-06-30,Interior,1
+2020-06-30,Southeast,2
+2020-07-01,Anchorage,1
+2020-07-01,Gulf Coast,4
+2020-07-01,Southeast,2
+2020-07-01,Southwest,4
+2020-07-02,Anchorage,2
+2020-07-02,Gulf Coast,2
+2020-07-02,Interior,2
+2020-07-02,Southwest,8
+2020-07-03,Anchorage,2
+2020-07-03,Gulf Coast,2
+2020-07-03,Interior,2
+2020-07-03,Southeast,1
+2020-07-04,Anchorage,1
+2020-07-04,Gulf Coast,1
+2020-07-04,Interior,1
+2020-07-04,Southeast,1
+2020-07-04,Southwest,1
+2020-07-05,Southeast,1
+2020-07-05,Unknown,1

@@ -9,12 +9,27 @@ def read_and_parse():
 
     cases_url = 'https://opendata.arcgis.com/datasets/f2b5073959c247368e4cd28e54cd0cff_0.csv'
     tests_url = 'https://opendata.arcgis.com/datasets/f7fbee9c32304652869dd842248ca4fa_0.csv'
+    nonres_cases_url = 'https://opendata.arcgis.com/datasets/f34c6b1e58f34939bb6d2d721eb7a1e7_0.csv'
 
     df_cases= pd.read_csv(cases_url, parse_dates=['Date_'])
     df_tests = pd.read_csv(tests_url, parse_dates=['Date'])
+    df_nonres_cases = pd.read_csv(nonres_cases_url, parse_dates=['ReportDate'])
 
     df_cases.to_csv('../data/raw/cases.csv', index=False)
     df_tests.to_csv('../data/raw/tests.csv', index=False)
+    df_nonres_cases.to_csv('../data/raw/nonres_cases.csv', index=False)
+
+    nonres_cases_map = {
+        'ReportDate' : 'date',
+        'FID' : 'nonresident_cases',
+        'Temporary_Region' : 'region',
+    }
+
+    df_nonres_cases = df_nonres_cases.groupby(['ReportDate', 'Temporary_Region']).count().copy().reset_index()
+    df_nonres_cases = df_nonres_cases.rename(columns=nonres_cases_map)
+    df_nonres_cases['region'] = df_nonres_cases['region'].str.replace('Matanuska-Susitna', 'MatSu')
+    df_nonres_cases['date'] = pd.to_datetime(df_nonres_cases['date']).dt.date
+    df_nonres_cases[['date', 'region', 'nonresident_cases']].to_csv('../data/parsed/nonres_cases.csv', index=False)
 
     cases_map ={
         'Date_' : 'date',
@@ -42,7 +57,7 @@ def read_and_parse():
     df_tests = df_tests[list(tests_map.keys())].copy()
     df_tests = df_tests.rename(columns=tests_map)
     df_tests['date'] = pd.to_datetime(df_tests['date']).dt.date
-    
+    df_tests.to_csv('../data/parsed/tests.csv', index=False)
 
 if __name__ == '__main__':
     read_and_parse()
