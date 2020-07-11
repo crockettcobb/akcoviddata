@@ -1,0 +1,1386 @@
+,ReportDate,County,Region,FID
+0,2020-03-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,1
+1,2020-03-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,2
+2,2020-03-16 12:00:00+00:00,Petersburg Borough,Southeast,3
+3,2020-03-17 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,4
+4,2020-03-17 12:00:00+00:00,Anchorage Municipality,Anchorage,5
+5,2020-03-17 12:00:00+00:00,Fairbanks North Star Borough,Interior,6
+6,2020-03-17 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,7
+7,2020-03-17 12:00:00+00:00,Anchorage Municipality,Anchorage,8
+8,2020-03-18 12:00:00+00:00,Anchorage Municipality,Anchorage,9
+9,2020-03-18 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,10
+10,2020-03-18 12:00:00+00:00,Anchorage Municipality,Anchorage,11
+11,2020-03-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,12
+12,2020-03-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,13
+13,2020-03-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,14
+14,2020-03-20 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,15
+15,2020-03-21 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,16
+16,2020-03-21 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,17
+17,2020-03-21 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,18
+18,2020-03-21 12:00:00+00:00,Anchorage Municipality,Anchorage,19
+19,2020-03-21 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,20
+20,2020-03-21 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,21
+21,2020-03-21 12:00:00+00:00,Fairbanks North Star Borough,Interior,22
+22,2020-03-21 12:00:00+00:00,Anchorage Municipality,Anchorage,23
+23,2020-03-21 12:00:00+00:00,Juneau City and Borough,Southeast,24
+24,2020-03-21 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,25
+25,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,26
+26,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,27
+27,2020-03-22 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,28
+28,2020-03-22 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,29
+29,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,30
+30,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,31
+31,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,32
+32,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,33
+33,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,34
+34,2020-03-22 12:00:00+00:00,Juneau City and Borough,Southeast,35
+35,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,36
+36,2020-03-22 12:00:00+00:00,Anchorage Municipality,Anchorage,37
+37,2020-03-22 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,38
+38,2020-03-23 12:00:00+00:00,Anchorage Municipality,Anchorage,39
+39,2020-03-23 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,40
+40,2020-03-23 12:00:00+00:00,Fairbanks North Star Borough,Interior,41
+41,2020-03-23 12:00:00+00:00,Fairbanks North Star Borough,Interior,42
+42,2020-03-24 12:00:00+00:00,Anchorage Municipality,Anchorage,43
+43,2020-03-24 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,44
+44,2020-03-24 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,45
+45,2020-03-24 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,46
+46,2020-03-24 12:00:00+00:00,Anchorage Municipality,Anchorage,47
+47,2020-03-24 12:00:00+00:00,Anchorage Municipality,Anchorage,48
+48,2020-03-24 12:00:00+00:00,Anchorage Municipality,Anchorage,49
+49,2020-03-25 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,50
+50,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,51
+51,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,52
+52,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,53
+53,2020-03-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,54
+54,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,55
+55,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,56
+56,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,57
+57,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,58
+58,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,59
+59,2020-03-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,60
+60,2020-03-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,61
+61,2020-03-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,62
+62,2020-03-25 12:00:00+00:00,Anchorage Municipality,Anchorage,63
+63,2020-03-26 12:00:00+00:00,Anchorage Municipality,Anchorage,64
+64,2020-03-26 12:00:00+00:00,Anchorage Municipality,Anchorage,65
+65,2020-03-26 12:00:00+00:00,Juneau City and Borough,Southeast,66
+66,2020-03-26 12:00:00+00:00,Fairbanks North Star Borough,Interior,67
+67,2020-03-26 12:00:00+00:00,Fairbanks North Star Borough,Interior,68
+68,2020-03-26 12:00:00+00:00,Anchorage Municipality,Anchorage,69
+69,2020-03-26 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,70
+70,2020-03-26 12:00:00+00:00,Fairbanks North Star Borough,Interior,71
+71,2020-03-26 12:00:00+00:00,Fairbanks North Star Borough,Interior,72
+72,2020-03-26 12:00:00+00:00,Anchorage Municipality,Anchorage,73
+73,2020-03-26 12:00:00+00:00,Anchorage Municipality,Anchorage,74
+74,2020-03-27 12:00:00+00:00,Juneau City and Borough,Southeast,75
+75,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,76
+76,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,77
+77,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,78
+78,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,79
+79,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,80
+80,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,81
+81,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,82
+82,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,83
+83,2020-03-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,84
+84,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,85
+85,2020-03-27 12:00:00+00:00,Anchorage Municipality,Anchorage,86
+86,2020-03-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,87
+87,2020-03-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,88
+88,2020-03-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,89
+89,2020-03-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,90
+90,2020-03-27 12:00:00+00:00,Yukon-Koyukuk Census Area,Interior,91
+91,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,92
+92,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,93
+93,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,94
+94,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,95
+95,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,96
+96,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,97
+97,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,98
+98,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,99
+99,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,100
+100,2020-03-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,101
+101,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,102
+102,2020-03-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,103
+103,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,104
+104,2020-03-28 12:00:00+00:00,Fairbanks North Star Borough,Interior,105
+105,2020-03-28 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,106
+106,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,107
+107,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,108
+108,2020-03-28 12:00:00+00:00,Anchorage Municipality,Anchorage,109
+109,2020-03-28 12:00:00+00:00,Fairbanks North Star Borough,Interior,110
+110,2020-03-29 12:00:00+00:00,Anchorage Municipality,Anchorage,111
+111,2020-03-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,112
+112,2020-03-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,113
+113,2020-03-29 12:00:00+00:00,Juneau City and Borough,Southeast,114
+114,2020-03-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,115
+115,2020-03-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,116
+116,2020-03-29 12:00:00+00:00,Anchorage Municipality,Anchorage,117
+117,2020-03-29 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,118
+118,2020-03-30 12:00:00+00:00,Anchorage Municipality,Anchorage,119
+119,2020-03-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,120
+120,2020-03-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,121
+121,2020-03-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,122
+122,2020-03-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,123
+123,2020-03-30 12:00:00+00:00,Anchorage Municipality,Anchorage,124
+124,2020-03-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,125
+125,2020-03-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,126
+126,2020-03-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,127
+127,2020-03-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,128
+128,2020-03-31 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,129
+129,2020-03-31 12:00:00+00:00,Anchorage Municipality,Anchorage,130
+130,2020-03-31 12:00:00+00:00,Anchorage Municipality,Anchorage,131
+131,2020-03-31 12:00:00+00:00,Anchorage Municipality,Anchorage,132
+132,2020-03-31 12:00:00+00:00,Juneau City and Borough,Southeast,133
+133,2020-03-31 12:00:00+00:00,Juneau City and Borough,Southeast,134
+134,2020-03-31 12:00:00+00:00,Fairbanks North Star Borough,Interior,135
+135,2020-03-31 12:00:00+00:00,Juneau City and Borough,Southeast,136
+136,2020-03-31 12:00:00+00:00,Juneau City and Borough,Southeast,137
+137,2020-03-31 12:00:00+00:00,Fairbanks North Star Borough,Interior,138
+138,2020-03-31 12:00:00+00:00,Fairbanks North Star Borough,Interior,139
+139,2020-03-31 12:00:00+00:00,Fairbanks North Star Borough,Interior,140
+140,2020-03-31 12:00:00+00:00,Fairbanks North Star Borough,Interior,141
+141,2020-04-01 12:00:00+00:00,Juneau City and Borough,Southeast,142
+142,2020-04-01 12:00:00+00:00,Fairbanks North Star Borough,Interior,143
+143,2020-04-01 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,144
+144,2020-04-01 12:00:00+00:00,Anchorage Municipality,Anchorage,145
+145,2020-04-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,146
+146,2020-04-01 12:00:00+00:00,Fairbanks North Star Borough,Interior,147
+147,2020-04-01 12:00:00+00:00,Fairbanks North Star Borough,Interior,148
+148,2020-04-01 12:00:00+00:00,Anchorage Municipality,Anchorage,149
+149,2020-04-02 12:00:00+00:00,Anchorage Municipality,Anchorage,150
+150,2020-04-02 12:00:00+00:00,Anchorage Municipality,Anchorage,151
+151,2020-04-02 12:00:00+00:00,Anchorage Municipality,Anchorage,152
+152,2020-04-02 12:00:00+00:00,Anchorage Municipality,Anchorage,153
+153,2020-04-02 12:00:00+00:00,Anchorage Municipality,Anchorage,154
+154,2020-04-02 12:00:00+00:00,Anchorage Municipality,Anchorage,155
+155,2020-04-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,156
+156,2020-04-02 12:00:00+00:00,Juneau City and Borough,Southeast,157
+157,2020-04-02 12:00:00+00:00,Anchorage Municipality,Anchorage,158
+158,2020-04-02 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,159
+159,2020-04-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,160
+160,2020-04-03 12:00:00+00:00,Juneau City and Borough,Southeast,161
+161,2020-04-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,162
+162,2020-04-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,163
+163,2020-04-03 12:00:00+00:00,Anchorage Municipality,Anchorage,164
+164,2020-04-03 12:00:00+00:00,Anchorage Municipality,Anchorage,165
+165,2020-04-03 12:00:00+00:00,Anchorage Municipality,Anchorage,166
+166,2020-04-03 12:00:00+00:00,Anchorage Municipality,Anchorage,167
+167,2020-04-03 12:00:00+00:00,Anchorage Municipality,Anchorage,168
+168,2020-04-03 12:00:00+00:00,Anchorage Municipality,Anchorage,169
+169,2020-04-03 12:00:00+00:00,Anchorage Municipality,Anchorage,170
+170,2020-04-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,171
+171,2020-04-04 12:00:00+00:00,Anchorage Municipality,Anchorage,172
+172,2020-04-04 12:00:00+00:00,Anchorage Municipality,Anchorage,173
+173,2020-04-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,174
+174,2020-04-04 12:00:00+00:00,Anchorage Municipality,Anchorage,175
+175,2020-04-04 12:00:00+00:00,Juneau City and Borough,Southeast,176
+176,2020-04-04 12:00:00+00:00,Juneau City and Borough,Southeast,177
+177,2020-04-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,178
+178,2020-04-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,179
+179,2020-04-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,180
+180,2020-04-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,181
+181,2020-04-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,182
+182,2020-04-04 12:00:00+00:00,Anchorage Municipality,Anchorage,183
+183,2020-04-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,184
+184,2020-04-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,185
+185,2020-04-05 12:00:00+00:00,Anchorage Municipality,Anchorage,186
+186,2020-04-05 12:00:00+00:00,Anchorage Municipality,Anchorage,187
+187,2020-04-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,188
+188,2020-04-05 12:00:00+00:00,Anchorage Municipality,Anchorage,189
+189,2020-04-05 12:00:00+00:00,Fairbanks North Star Borough,Interior,190
+190,2020-04-05 12:00:00+00:00,Petersburg Borough,Southeast,191
+191,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,192
+192,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,193
+193,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,194
+194,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,195
+195,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,196
+196,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,197
+197,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,198
+198,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,199
+199,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,200
+200,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,201
+201,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,202
+202,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,203
+203,2020-04-06 12:00:00+00:00,Bethel Census Area,Southwest,204
+204,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,205
+205,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,206
+206,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,207
+207,2020-04-06 12:00:00+00:00,Fairbanks North Star Borough,Interior,208
+208,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,209
+209,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,210
+210,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,211
+211,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,212
+212,2020-04-06 12:00:00+00:00,Anchorage Municipality,Anchorage,213
+213,2020-04-07 12:00:00+00:00,Anchorage Municipality,Anchorage,214
+214,2020-04-07 12:00:00+00:00,Anchorage Municipality,Anchorage,215
+215,2020-04-07 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,216
+216,2020-04-07 12:00:00+00:00,Anchorage Municipality,Anchorage,217
+217,2020-04-07 12:00:00+00:00,Anchorage Municipality,Anchorage,218
+218,2020-04-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,219
+219,2020-04-07 12:00:00+00:00,Anchorage Municipality,Anchorage,220
+220,2020-04-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,221
+221,2020-04-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,222
+222,2020-04-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,223
+223,2020-04-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,224
+224,2020-04-07 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,225
+225,2020-04-07 12:00:00+00:00,Anchorage Municipality,Anchorage,226
+226,2020-04-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,227
+227,2020-04-08 12:00:00+00:00,Anchorage Municipality,Anchorage,228
+228,2020-04-08 12:00:00+00:00,Anchorage Municipality,Anchorage,229
+229,2020-04-08 12:00:00+00:00,Anchorage Municipality,Anchorage,230
+230,2020-04-08 12:00:00+00:00,Anchorage Municipality,Anchorage,231
+231,2020-04-08 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,232
+232,2020-04-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,233
+233,2020-04-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,234
+234,2020-04-08 12:00:00+00:00,Anchorage Municipality,Anchorage,235
+235,2020-04-09 12:00:00+00:00,Anchorage Municipality,Anchorage,236
+236,2020-04-09 12:00:00+00:00,Juneau City and Borough,Southeast,237
+237,2020-04-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,238
+238,2020-04-09 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,239
+239,2020-04-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,240
+240,2020-04-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,241
+241,2020-04-09 12:00:00+00:00,Anchorage Municipality,Anchorage,242
+242,2020-04-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,243
+243,2020-04-09 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,244
+244,2020-04-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,245
+245,2020-04-09 12:00:00+00:00,Anchorage Municipality,Anchorage,246
+246,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,247
+247,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,248
+248,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,249
+249,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,250
+250,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,251
+251,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,252
+252,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,253
+253,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,254
+254,2020-04-10 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,255
+255,2020-04-10 12:00:00+00:00,Prince of Wales-Hyder Census Area,Southeast,256
+256,2020-04-10 12:00:00+00:00,Anchorage Municipality,Anchorage,257
+257,2020-04-11 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,258
+258,2020-04-11 12:00:00+00:00,Anchorage Municipality,Anchorage,259
+259,2020-04-11 12:00:00+00:00,Juneau City and Borough,Southeast,260
+260,2020-04-11 12:00:00+00:00,Anchorage Municipality,Anchorage,261
+261,2020-04-11 12:00:00+00:00,Fairbanks North Star Borough,Interior,262
+262,2020-04-11 12:00:00+00:00,Anchorage Municipality,Anchorage,263
+263,2020-04-11 12:00:00+00:00,Fairbanks North Star Borough,Interior,264
+264,2020-04-11 12:00:00+00:00,Anchorage Municipality,Anchorage,265
+265,2020-04-11 12:00:00+00:00,Anchorage Municipality,Anchorage,266
+266,2020-04-11 12:00:00+00:00,Anchorage Municipality,Anchorage,267
+267,2020-04-11 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,268
+268,2020-04-11 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,269
+269,2020-04-11 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,270
+270,2020-04-11 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,271
+271,2020-04-11 12:00:00+00:00,Fairbanks North Star Borough,Interior,272
+272,2020-04-12 12:00:00+00:00,Anchorage Municipality,Anchorage,273
+273,2020-04-12 12:00:00+00:00,Juneau City and Borough,Southeast,274
+274,2020-04-12 12:00:00+00:00,Anchorage Municipality,Anchorage,275
+275,2020-04-12 12:00:00+00:00,Anchorage Municipality,Anchorage,276
+276,2020-04-12 12:00:00+00:00,Anchorage Municipality,Anchorage,277
+277,2020-04-13 12:00:00+00:00,Anchorage Municipality,Anchorage,278
+278,2020-04-13 12:00:00+00:00,Juneau City and Borough,Southeast,279
+279,2020-04-13 12:00:00+00:00,Anchorage Municipality,Anchorage,280
+280,2020-04-13 12:00:00+00:00,Anchorage Municipality,Anchorage,281
+281,2020-04-13 12:00:00+00:00,Prince of Wales-Hyder Census Area,Southeast,282
+282,2020-04-13 12:00:00+00:00,Anchorage Municipality,Anchorage,283
+283,2020-04-13 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,284
+284,2020-04-13 12:00:00+00:00,Anchorage Municipality,Anchorage,285
+285,2020-04-14 12:00:00+00:00,Juneau City and Borough,Southeast,286
+286,2020-04-14 12:00:00+00:00,Juneau City and Borough,Southeast,287
+287,2020-04-14 12:00:00+00:00,Juneau City and Borough,Southeast,288
+288,2020-04-14 12:00:00+00:00,Anchorage Municipality,Anchorage,289
+289,2020-04-14 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,290
+290,2020-04-14 12:00:00+00:00,Anchorage Municipality,Anchorage,291
+291,2020-04-14 12:00:00+00:00,Nome Census Area,Northern,292
+292,2020-04-14 12:00:00+00:00,Anchorage Municipality,Anchorage,293
+293,2020-04-15 12:00:00+00:00,Juneau City and Borough,Southeast,294
+294,2020-04-15 12:00:00+00:00,Juneau City and Borough,Southeast,295
+295,2020-04-15 12:00:00+00:00,Anchorage Municipality,Anchorage,296
+296,2020-04-15 12:00:00+00:00,Anchorage Municipality,Anchorage,297
+297,2020-04-15 12:00:00+00:00,Anchorage Municipality,Anchorage,298
+298,2020-04-15 12:00:00+00:00,Anchorage Municipality,Anchorage,299
+299,2020-04-15 12:00:00+00:00,Kodiak Island Borough,Gulf Coast,300
+300,2020-04-16 12:00:00+00:00,Anchorage Municipality,Anchorage,301
+301,2020-04-16 12:00:00+00:00,Anchorage Municipality,Anchorage,302
+302,2020-04-16 12:00:00+00:00,Juneau City and Borough,Southeast,303
+303,2020-04-16 12:00:00+00:00,Anchorage Municipality,Anchorage,304
+304,2020-04-16 12:00:00+00:00,Anchorage Municipality,Anchorage,305
+305,2020-04-16 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,306
+306,2020-04-16 12:00:00+00:00,Anchorage Municipality,Anchorage,307
+307,2020-04-16 12:00:00+00:00,Anchorage Municipality,Anchorage,308
+308,2020-04-16 12:00:00+00:00,Anchorage Municipality,Anchorage,309
+309,2020-04-17 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,310
+310,2020-04-17 12:00:00+00:00,Anchorage Municipality,Anchorage,311
+311,2020-04-17 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,312
+312,2020-04-17 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,313
+313,2020-04-17 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,314
+314,2020-04-18 12:00:00+00:00,Petersburg Borough,Southeast,315
+315,2020-04-18 12:00:00+00:00,Anchorage Municipality,Anchorage,316
+316,2020-04-18 12:00:00+00:00,Anchorage Municipality,Anchorage,317
+317,2020-04-18 12:00:00+00:00,Anchorage Municipality,Anchorage,318
+318,2020-04-18 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,319
+319,2020-04-19 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,320
+320,2020-04-19 12:00:00+00:00,Anchorage Municipality,Anchorage,321
+321,2020-04-20 12:00:00+00:00,Juneau City and Borough,Southeast,322
+322,2020-04-20 12:00:00+00:00,Juneau City and Borough,Southeast,323
+323,2020-04-20 12:00:00+00:00,Anchorage Municipality,Anchorage,324
+324,2020-04-20 12:00:00+00:00,Anchorage Municipality,Anchorage,325
+325,2020-04-20 12:00:00+00:00,Anchorage Municipality,Anchorage,326
+326,2020-04-20 12:00:00+00:00,Anchorage Municipality,Anchorage,327
+327,2020-04-20 12:00:00+00:00,Anchorage Municipality,Anchorage,328
+328,2020-04-20 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,329
+329,2020-04-21 12:00:00+00:00,Anchorage Municipality,Anchorage,330
+330,2020-04-21 12:00:00+00:00,Anchorage Municipality,Anchorage,331
+331,2020-04-21 12:00:00+00:00,Anchorage Municipality,Anchorage,332
+332,2020-04-21 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,333
+333,2020-04-21 12:00:00+00:00,Juneau City and Borough,Southeast,334
+334,2020-04-21 12:00:00+00:00,Anchorage Municipality,Anchorage,335
+335,2020-04-22 12:00:00+00:00,Anchorage Municipality,Anchorage,336
+336,2020-04-22 12:00:00+00:00,Anchorage Municipality,Anchorage,337
+337,2020-04-23 12:00:00+00:00,Anchorage Municipality,Anchorage,338
+338,2020-04-23 12:00:00+00:00,Anchorage Municipality,Anchorage,339
+339,2020-04-25 12:00:00+00:00,Sitka City and Borough,Southeast,340
+340,2020-04-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,341
+341,2020-04-26 12:00:00+00:00,Anchorage Municipality,Anchorage,342
+342,2020-04-26 12:00:00+00:00,Anchorage Municipality,Anchorage,343
+343,2020-04-26 12:00:00+00:00,Anchorage Municipality,Anchorage,344
+344,2020-04-26 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,345
+345,2020-04-27 12:00:00+00:00,Anchorage Municipality,Anchorage,346
+346,2020-04-27 12:00:00+00:00,Petersburg Borough,Southeast,347
+347,2020-04-27 12:00:00+00:00,Anchorage Municipality,Anchorage,348
+348,2020-04-27 12:00:00+00:00,Anchorage Municipality,Anchorage,349
+349,2020-04-27 12:00:00+00:00,Anchorage Municipality,Anchorage,350
+350,2020-04-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,351
+351,2020-04-28 12:00:00+00:00,Anchorage Municipality,Anchorage,352
+352,2020-04-28 12:00:00+00:00,Anchorage Municipality,Anchorage,353
+353,2020-04-28 12:00:00+00:00,Anchorage Municipality,Anchorage,354
+354,2020-04-28 12:00:00+00:00,Anchorage Municipality,Anchorage,355
+355,2020-04-30 12:00:00+00:00,Anchorage Municipality,Anchorage,356
+356,2020-04-30 12:00:00+00:00,Anchorage Municipality,Anchorage,357
+357,2020-04-30 12:00:00+00:00,Anchorage Municipality,Anchorage,358
+358,2020-04-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,359
+359,2020-04-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,360
+360,2020-04-30 12:00:00+00:00,Anchorage Municipality,Anchorage,361
+361,2020-04-30 12:00:00+00:00,Anchorage Municipality,Anchorage,362
+362,2020-04-30 12:00:00+00:00,Anchorage Municipality,Anchorage,363
+363,2020-04-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,364
+364,2020-05-01 12:00:00+00:00,Fairbanks North Star Borough,Interior,365
+365,2020-05-02 12:00:00+00:00,Anchorage Municipality,Anchorage,366
+366,2020-05-02 12:00:00+00:00,Anchorage Municipality,Anchorage,367
+367,2020-05-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,368
+368,2020-05-03 12:00:00+00:00,Anchorage Municipality,Anchorage,369
+369,2020-05-03 12:00:00+00:00,Anchorage Municipality,Anchorage,370
+370,2020-05-04 12:00:00+00:00,Anchorage Municipality,Anchorage,371
+371,2020-05-05 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,372
+372,2020-05-06 12:00:00+00:00,Anchorage Municipality,Anchorage,373
+373,2020-05-06 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,374
+374,2020-05-07 12:00:00+00:00,Anchorage Municipality,Anchorage,375
+375,2020-05-07 12:00:00+00:00,Anchorage Municipality,Anchorage,376
+376,2020-05-07 12:00:00+00:00,Anchorage Municipality,Anchorage,377
+377,2020-05-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,378
+378,2020-05-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,379
+379,2020-05-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,380
+380,2020-05-10 12:00:00+00:00,Anchorage Municipality,Anchorage,381
+381,2020-05-11 12:00:00+00:00,Juneau City and Borough,Southeast,382
+382,2020-05-11 12:00:00+00:00,Juneau City and Borough,Southeast,383
+383,2020-05-13 12:00:00+00:00,Anchorage Municipality,Anchorage,384
+384,2020-05-13 12:00:00+00:00,Anchorage Municipality,Anchorage,385
+385,2020-05-13 12:00:00+00:00,Anchorage Municipality,Anchorage,386
+386,2020-05-13 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,387
+387,2020-05-14 12:00:00+00:00,Anchorage Municipality,Anchorage,388
+388,2020-05-15 12:00:00+00:00,Anchorage Municipality,Anchorage,389
+389,2020-05-15 12:00:00+00:00,Bethel Census Area,Southwest,390
+390,2020-05-15 12:00:00+00:00,Anchorage Municipality,Anchorage,391
+391,2020-05-15 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,392
+392,2020-05-16 12:00:00+00:00,Anchorage Municipality,Anchorage,393
+393,2020-05-16 12:00:00+00:00,Anchorage Municipality,Anchorage,394
+394,2020-05-16 12:00:00+00:00,Juneau City and Borough,Southeast,395
+395,2020-05-16 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,396
+396,2020-05-17 12:00:00+00:00,Anchorage Municipality,Anchorage,397
+397,2020-05-17 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,398
+398,2020-05-17 12:00:00+00:00,Anchorage Municipality,Anchorage,399
+399,2020-05-19 12:00:00+00:00,Anchorage Municipality,Anchorage,400
+400,2020-05-19 12:00:00+00:00,Northwest Arctic Borough,Northern,401
+401,2020-05-19 12:00:00+00:00,Bristol Bay plus Lake and Peninsula,Southwest,402
+402,2020-05-21 12:00:00+00:00,Juneau City and Borough,Southeast,403
+403,2020-05-21 12:00:00+00:00,Nome Census Area,Northern,404
+404,2020-05-22 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,405
+405,2020-05-22 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,406
+406,2020-05-22 12:00:00+00:00,Northwest Arctic Borough,Northern,407
+407,2020-05-22 12:00:00+00:00,Nome Census Area,Northern,408
+408,2020-05-24 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,409
+409,2020-05-25 12:00:00+00:00,Sitka City and Borough,Southeast,410
+410,2020-05-25 12:00:00+00:00,Anchorage Municipality,Anchorage,411
+411,2020-05-26 12:00:00+00:00,Bethel Census Area,Southwest,412
+412,2020-05-27 12:00:00+00:00,North Slope Borough,Northern,413
+413,2020-05-27 12:00:00+00:00,Anchorage Municipality,Anchorage,414
+414,2020-05-27 12:00:00+00:00,Anchorage Municipality,Anchorage,415
+415,2020-05-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,416
+416,2020-05-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,417
+417,2020-05-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,418
+418,2020-05-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,419
+419,2020-05-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,420
+420,2020-05-27 12:00:00+00:00,Anchorage Municipality,Anchorage,421
+421,2020-05-27 12:00:00+00:00,Anchorage Municipality,Anchorage,422
+422,2020-05-27 12:00:00+00:00,Juneau City and Borough,Southeast,423
+423,2020-05-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,424
+424,2020-05-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,425
+425,2020-05-28 12:00:00+00:00,Anchorage Municipality,Anchorage,426
+426,2020-05-28 12:00:00+00:00,Anchorage Municipality,Anchorage,427
+427,2020-05-28 12:00:00+00:00,Juneau City and Borough,Southeast,428
+428,2020-05-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,429
+429,2020-05-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,430
+430,2020-05-29 12:00:00+00:00,Anchorage Municipality,Anchorage,431
+431,2020-05-29 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,432
+432,2020-05-29 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,433
+433,2020-05-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,434
+434,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,435
+435,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,436
+436,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,437
+437,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,438
+438,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,439
+439,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,440
+440,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,441
+441,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,442
+442,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,443
+443,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,444
+444,2020-05-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,445
+445,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,446
+446,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,447
+447,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,448
+448,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,449
+449,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,450
+450,2020-05-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,451
+451,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,452
+452,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,453
+453,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,454
+454,2020-05-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,455
+455,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,456
+456,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,457
+457,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,458
+458,2020-05-30 12:00:00+00:00,Anchorage Municipality,Anchorage,459
+459,2020-05-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,460
+460,2020-05-31 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,461
+461,2020-05-31 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,462
+462,2020-05-31 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,463
+463,2020-05-31 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,464
+464,2020-05-31 12:00:00+00:00,Anchorage Municipality,Anchorage,465
+465,2020-05-31 12:00:00+00:00,Anchorage Municipality,Anchorage,466
+466,2020-05-31 12:00:00+00:00,Anchorage Municipality,Anchorage,467
+467,2020-06-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,468
+468,2020-06-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,469
+469,2020-06-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,470
+470,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,471
+471,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,472
+472,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,473
+473,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,474
+474,2020-06-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,475
+475,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,476
+476,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,477
+477,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,478
+478,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,479
+479,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,480
+480,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,481
+481,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,482
+482,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,483
+483,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,484
+484,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,485
+485,2020-06-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,486
+486,2020-06-01 12:00:00+00:00,Anchorage Municipality,Anchorage,487
+487,2020-06-02 12:00:00+00:00,Anchorage Municipality,Anchorage,488
+488,2020-06-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,489
+489,2020-06-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,490
+490,2020-06-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,491
+491,2020-06-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,492
+492,2020-06-02 12:00:00+00:00,Anchorage Municipality,Anchorage,493
+493,2020-06-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,494
+494,2020-06-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,495
+495,2020-06-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,496
+496,2020-06-02 12:00:00+00:00,Anchorage Municipality,Anchorage,497
+497,2020-06-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,498
+498,2020-06-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,499
+499,2020-06-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,500
+500,2020-06-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,501
+501,2020-06-02 12:00:00+00:00,Anchorage Municipality,Anchorage,502
+502,2020-06-02 12:00:00+00:00,Anchorage Municipality,Anchorage,503
+503,2020-06-02 12:00:00+00:00,Anchorage Municipality,Anchorage,504
+504,2020-06-02 12:00:00+00:00,Anchorage Municipality,Anchorage,505
+505,2020-06-03 12:00:00+00:00,Anchorage Municipality,Anchorage,506
+506,2020-06-03 12:00:00+00:00,Anchorage Municipality,Anchorage,507
+507,2020-06-03 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,508
+508,2020-06-03 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,509
+509,2020-06-03 12:00:00+00:00,Anchorage Municipality,Anchorage,510
+510,2020-06-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,511
+511,2020-06-03 12:00:00+00:00,Anchorage Municipality,Anchorage,512
+512,2020-06-03 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,513
+513,2020-06-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,514
+514,2020-06-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,515
+515,2020-06-04 12:00:00+00:00,Anchorage Municipality,Anchorage,516
+516,2020-06-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,517
+517,2020-06-04 12:00:00+00:00,Anchorage Municipality,Anchorage,518
+518,2020-06-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,519
+519,2020-06-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,520
+520,2020-06-04 12:00:00+00:00,Anchorage Municipality,Anchorage,521
+521,2020-06-04 12:00:00+00:00,Anchorage Municipality,Anchorage,522
+522,2020-06-04 12:00:00+00:00,Anchorage Municipality,Anchorage,523
+523,2020-06-04 12:00:00+00:00,Anchorage Municipality,Anchorage,524
+524,2020-06-05 12:00:00+00:00,Anchorage Municipality,Anchorage,525
+525,2020-06-05 12:00:00+00:00,Anchorage Municipality,Anchorage,526
+526,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,527
+527,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,528
+528,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,529
+529,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,530
+530,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,531
+531,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,532
+532,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,533
+533,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,534
+534,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,535
+535,2020-06-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,536
+536,2020-06-06 12:00:00+00:00,Anchorage Municipality,Anchorage,537
+537,2020-06-06 12:00:00+00:00,Anchorage Municipality,Anchorage,538
+538,2020-06-06 12:00:00+00:00,Anchorage Municipality,Anchorage,539
+539,2020-06-06 12:00:00+00:00,Juneau City and Borough,Southeast,540
+540,2020-06-06 12:00:00+00:00,Anchorage Municipality,Anchorage,541
+541,2020-06-06 12:00:00+00:00,Anchorage Municipality,Anchorage,542
+542,2020-06-06 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,543
+543,2020-06-06 12:00:00+00:00,Anchorage Municipality,Anchorage,544
+544,2020-06-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,545
+545,2020-06-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,546
+546,2020-06-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,547
+547,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,548
+548,2020-06-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,549
+549,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,550
+550,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,551
+551,2020-06-07 12:00:00+00:00,Juneau City and Borough,Southeast,552
+552,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,553
+553,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,554
+554,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,555
+555,2020-06-07 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,556
+556,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,557
+557,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,558
+558,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,559
+559,2020-06-07 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,560
+560,2020-06-07 12:00:00+00:00,Anchorage Municipality,Anchorage,561
+561,2020-06-07 12:00:00+00:00,Wrangell City and Borough,Southeast,562
+562,2020-06-08 12:00:00+00:00,Anchorage Municipality,Anchorage,563
+563,2020-06-08 12:00:00+00:00,Anchorage Municipality,Anchorage,564
+564,2020-06-08 12:00:00+00:00,Anchorage Municipality,Anchorage,565
+565,2020-06-08 12:00:00+00:00,Haines Borough,Southeast,566
+566,2020-06-08 12:00:00+00:00,Northwest Arctic Borough,Northern,567
+567,2020-06-08 12:00:00+00:00,Anchorage Municipality,Anchorage,568
+568,2020-06-08 12:00:00+00:00,Anchorage Municipality,Anchorage,569
+569,2020-06-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,570
+570,2020-06-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,571
+571,2020-06-08 12:00:00+00:00,Nome Census Area,Northern,572
+572,2020-06-08 12:00:00+00:00,Anchorage Municipality,Anchorage,573
+573,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,574
+574,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,575
+575,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,576
+576,2020-06-09 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,577
+577,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,578
+578,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,579
+579,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,580
+580,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,581
+581,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,582
+582,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,583
+583,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,584
+584,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,585
+585,2020-06-09 12:00:00+00:00,Sitka City and Borough,Southeast,586
+586,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,587
+587,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,588
+588,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,589
+589,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,590
+590,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,591
+591,2020-06-09 12:00:00+00:00,Anchorage Municipality,Anchorage,592
+592,2020-06-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,593
+593,2020-06-10 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,594
+594,2020-06-10 12:00:00+00:00,Anchorage Municipality,Anchorage,595
+595,2020-06-10 12:00:00+00:00,Juneau City and Borough,Southeast,596
+596,2020-06-10 12:00:00+00:00,Northwest Arctic Borough,Northern,597
+597,2020-06-10 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,598
+598,2020-06-10 12:00:00+00:00,Sitka City and Borough,Southeast,599
+599,2020-06-10 12:00:00+00:00,Kodiak Island Borough,Gulf Coast,600
+600,2020-06-10 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,601
+601,2020-06-10 12:00:00+00:00,Anchorage Municipality,Anchorage,602
+602,2020-06-10 12:00:00+00:00,Juneau City and Borough,Southeast,603
+603,2020-06-10 12:00:00+00:00,Anchorage Municipality,Anchorage,604
+604,2020-06-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,605
+605,2020-06-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,606
+606,2020-06-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,607
+607,2020-06-10 12:00:00+00:00,Sitka City and Borough,Southeast,608
+608,2020-06-10 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,609
+609,2020-06-10 12:00:00+00:00,Anchorage Municipality,Anchorage,610
+610,2020-06-10 12:00:00+00:00,Sitka City and Borough,Southeast,611
+611,2020-06-11 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,612
+612,2020-06-11 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,613
+613,2020-06-11 12:00:00+00:00,Anchorage Municipality,Anchorage,614
+614,2020-06-11 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,615
+615,2020-06-11 12:00:00+00:00,Fairbanks North Star Borough,Interior,616
+616,2020-06-11 12:00:00+00:00,Anchorage Municipality,Anchorage,617
+617,2020-06-11 12:00:00+00:00,Anchorage Municipality,Anchorage,618
+618,2020-06-11 12:00:00+00:00,Anchorage Municipality,Anchorage,619
+619,2020-06-11 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,620
+620,2020-06-11 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,621
+621,2020-06-11 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,622
+622,2020-06-11 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,623
+623,2020-06-11 12:00:00+00:00,Anchorage Municipality,Anchorage,624
+624,2020-06-11 12:00:00+00:00,Anchorage Municipality,Anchorage,625
+625,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,626
+626,2020-06-12 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,627
+627,2020-06-12 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,628
+628,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,629
+629,2020-06-12 12:00:00+00:00,Sitka City and Borough,Southeast,630
+630,2020-06-12 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,631
+631,2020-06-12 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,632
+632,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,633
+633,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,634
+634,2020-06-12 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,635
+635,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,636
+636,2020-06-12 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,637
+637,2020-06-12 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,638
+638,2020-06-12 12:00:00+00:00,Sitka City and Borough,Southeast,639
+639,2020-06-12 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,640
+640,2020-06-12 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,641
+641,2020-06-12 12:00:00+00:00,Bethel Census Area,Southwest,642
+642,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,643
+643,2020-06-12 12:00:00+00:00,Wrangell City and Borough,Southeast,644
+644,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,645
+645,2020-06-12 12:00:00+00:00,Fairbanks North Star Borough,Interior,646
+646,2020-06-12 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,647
+647,2020-06-12 12:00:00+00:00,Anchorage Municipality,Anchorage,648
+648,2020-06-12 12:00:00+00:00,Fairbanks North Star Borough,Interior,649
+649,2020-06-12 12:00:00+00:00,Fairbanks North Star Borough,Interior,650
+650,2020-06-12 12:00:00+00:00,Nome Census Area,Northern,651
+651,2020-06-13 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,652
+652,2020-06-13 12:00:00+00:00,Fairbanks North Star Borough,Interior,653
+653,2020-06-13 12:00:00+00:00,Fairbanks North Star Borough,Interior,654
+654,2020-06-13 12:00:00+00:00,Fairbanks North Star Borough,Interior,655
+655,2020-06-13 12:00:00+00:00,Anchorage Municipality,Anchorage,656
+656,2020-06-13 12:00:00+00:00,Anchorage Municipality,Anchorage,657
+657,2020-06-13 12:00:00+00:00,Anchorage Municipality,Anchorage,658
+658,2020-06-13 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,659
+659,2020-06-13 12:00:00+00:00,Fairbanks North Star Borough,Interior,660
+660,2020-06-14 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,661
+661,2020-06-14 12:00:00+00:00,Anchorage Municipality,Anchorage,662
+662,2020-06-14 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,663
+663,2020-06-15 12:00:00+00:00,Anchorage Municipality,Anchorage,664
+664,2020-06-15 12:00:00+00:00,Bethel Census Area,Southwest,665
+665,2020-06-15 12:00:00+00:00,Anchorage Municipality,Anchorage,666
+666,2020-06-15 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,667
+667,2020-06-15 12:00:00+00:00,Anchorage Municipality,Anchorage,668
+668,2020-06-15 12:00:00+00:00,Anchorage Municipality,Anchorage,669
+669,2020-06-15 12:00:00+00:00,Anchorage Municipality,Anchorage,670
+670,2020-06-15 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,671
+671,2020-06-15 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,672
+672,2020-06-15 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,673
+673,2020-06-15 12:00:00+00:00,Anchorage Municipality,Anchorage,674
+674,2020-06-15 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,675
+675,2020-06-15 12:00:00+00:00,Anchorage Municipality,Anchorage,676
+676,2020-06-16 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,677
+677,2020-06-16 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,678
+678,2020-06-16 12:00:00+00:00,Anchorage Municipality,Anchorage,679
+679,2020-06-16 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,680
+680,2020-06-16 12:00:00+00:00,North Slope Borough,Northern,681
+681,2020-06-16 12:00:00+00:00,Sitka City and Borough,Southeast,682
+682,2020-06-16 12:00:00+00:00,Anchorage Municipality,Anchorage,683
+683,2020-06-16 12:00:00+00:00,Anchorage Municipality,Anchorage,684
+684,2020-06-16 12:00:00+00:00,Kodiak Island Borough,Gulf Coast,685
+685,2020-06-16 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,686
+686,2020-06-16 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,687
+687,2020-06-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,688
+688,2020-06-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,689
+689,2020-06-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,690
+690,2020-06-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,691
+691,2020-06-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,692
+692,2020-06-16 12:00:00+00:00,Fairbanks North Star Borough,Interior,693
+693,2020-06-16 12:00:00+00:00,Wrangell City and Borough,Southeast,694
+694,2020-06-16 12:00:00+00:00,Juneau City and Borough,Southeast,695
+695,2020-06-16 12:00:00+00:00,Anchorage Municipality,Anchorage,696
+696,2020-06-17 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,697
+697,2020-06-17 12:00:00+00:00,Bristol Bay plus Lake and Peninsula,Southwest,698
+698,2020-06-17 12:00:00+00:00,Fairbanks North Star Borough,Interior,699
+699,2020-06-17 12:00:00+00:00,Fairbanks North Star Borough,Interior,700
+700,2020-06-17 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,701
+701,2020-06-17 12:00:00+00:00,Anchorage Municipality,Anchorage,702
+702,2020-06-17 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,703
+703,2020-06-17 12:00:00+00:00,Fairbanks North Star Borough,Interior,704
+704,2020-06-17 12:00:00+00:00,Juneau City and Borough,Southeast,705
+705,2020-06-17 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,706
+706,2020-06-17 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,707
+707,2020-06-17 12:00:00+00:00,Anchorage Municipality,Anchorage,708
+708,2020-06-18 12:00:00+00:00,Anchorage Municipality,Anchorage,709
+709,2020-06-18 12:00:00+00:00,Anchorage Municipality,Anchorage,710
+710,2020-06-18 12:00:00+00:00,Anchorage Municipality,Anchorage,711
+711,2020-06-18 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,712
+712,2020-06-18 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,713
+713,2020-06-18 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,714
+714,2020-06-18 12:00:00+00:00,Fairbanks North Star Borough,Interior,715
+715,2020-06-18 12:00:00+00:00,Anchorage Municipality,Anchorage,716
+716,2020-06-18 12:00:00+00:00,Anchorage Municipality,Anchorage,717
+717,2020-06-18 12:00:00+00:00,Anchorage Municipality,Anchorage,718
+718,2020-06-18 12:00:00+00:00,Fairbanks North Star Borough,Interior,719
+719,2020-06-18 12:00:00+00:00,Haines Borough,Southeast,720
+720,2020-06-18 12:00:00+00:00,Bethel Census Area,Southwest,721
+721,2020-06-18 12:00:00+00:00,North Slope Borough,Northern,722
+722,2020-06-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,723
+723,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,724
+724,2020-06-19 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,725
+725,2020-06-19 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,726
+726,2020-06-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,727
+727,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,728
+728,2020-06-19 12:00:00+00:00,Sitka City and Borough,Southeast,729
+729,2020-06-19 12:00:00+00:00,Sitka City and Borough,Southeast,730
+730,2020-06-19 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,731
+731,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,732
+732,2020-06-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,733
+733,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,734
+734,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,735
+735,2020-06-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,736
+736,2020-06-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,737
+737,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,738
+738,2020-06-19 12:00:00+00:00,Yukon-Koyukuk Census Area,Interior,739
+739,2020-06-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,740
+740,2020-06-19 12:00:00+00:00,Fairbanks North Star Borough,Interior,741
+741,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,742
+742,2020-06-19 12:00:00+00:00,Anchorage Municipality,Anchorage,743
+743,2020-06-20 12:00:00+00:00,Fairbanks North Star Borough,Interior,744
+744,2020-06-20 12:00:00+00:00,Anchorage Municipality,Anchorage,745
+745,2020-06-20 12:00:00+00:00,Anchorage Municipality,Anchorage,746
+746,2020-06-20 12:00:00+00:00,Anchorage Municipality,Anchorage,747
+747,2020-06-20 12:00:00+00:00,Anchorage Municipality,Anchorage,748
+748,2020-06-20 12:00:00+00:00,Fairbanks North Star Borough,Interior,749
+749,2020-06-20 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,750
+750,2020-06-20 12:00:00+00:00,Anchorage Municipality,Anchorage,751
+751,2020-06-20 12:00:00+00:00,Anchorage Municipality,Anchorage,752
+752,2020-06-20 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,753
+753,2020-06-20 12:00:00+00:00,Fairbanks North Star Borough,Interior,754
+754,2020-06-21 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,755
+755,2020-06-21 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,756
+756,2020-06-21 12:00:00+00:00,North Slope Borough,Northern,757
+757,2020-06-21 12:00:00+00:00,Anchorage Municipality,Anchorage,758
+758,2020-06-21 12:00:00+00:00,Anchorage Municipality,Anchorage,759
+759,2020-06-21 12:00:00+00:00,Anchorage Municipality,Anchorage,760
+760,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,761
+761,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,762
+762,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,763
+763,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,764
+764,2020-06-22 12:00:00+00:00,Fairbanks North Star Borough,Interior,765
+765,2020-06-22 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,766
+766,2020-06-22 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,767
+767,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,768
+768,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,769
+769,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,770
+770,2020-06-22 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,771
+771,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,772
+772,2020-06-22 12:00:00+00:00,Anchorage Municipality,Anchorage,773
+773,2020-06-22 12:00:00+00:00,Bethel Census Area,Southwest,774
+774,2020-06-22 12:00:00+00:00,Fairbanks North Star Borough,Interior,775
+775,2020-06-22 12:00:00+00:00,Nome Census Area,Northern,776
+776,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,777
+777,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,778
+778,2020-06-23 12:00:00+00:00,Fairbanks North Star Borough,Interior,779
+779,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,780
+780,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,781
+781,2020-06-23 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,782
+782,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,783
+783,2020-06-23 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,784
+784,2020-06-23 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,785
+785,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,786
+786,2020-06-23 12:00:00+00:00,Fairbanks North Star Borough,Interior,787
+787,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,788
+788,2020-06-23 12:00:00+00:00,Anchorage Municipality,Anchorage,789
+789,2020-06-23 12:00:00+00:00,Fairbanks North Star Borough,Interior,790
+790,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,791
+791,2020-06-24 12:00:00+00:00,Anchorage Municipality,Anchorage,792
+792,2020-06-24 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,793
+793,2020-06-24 12:00:00+00:00,Anchorage Municipality,Anchorage,794
+794,2020-06-24 12:00:00+00:00,Anchorage Municipality,Anchorage,795
+795,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,796
+796,2020-06-24 12:00:00+00:00,Bethel Census Area,Southwest,797
+797,2020-06-24 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,798
+798,2020-06-24 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,799
+799,2020-06-24 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,800
+800,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,801
+801,2020-06-24 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,802
+802,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,803
+803,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,804
+804,2020-06-24 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,805
+805,2020-06-24 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,806
+806,2020-06-24 12:00:00+00:00,Anchorage Municipality,Anchorage,807
+807,2020-06-24 12:00:00+00:00,Anchorage Municipality,Anchorage,808
+808,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,809
+809,2020-06-24 12:00:00+00:00,Anchorage Municipality,Anchorage,810
+810,2020-06-24 12:00:00+00:00,Valdez-Cordova Census Area,Gulf Coast,811
+811,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,812
+812,2020-06-24 12:00:00+00:00,Fairbanks North Star Borough,Interior,813
+813,2020-06-24 12:00:00+00:00,Anchorage Municipality,Anchorage,814
+814,2020-06-24 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,815
+815,2020-06-25 12:00:00+00:00,Juneau City and Borough,Southeast,816
+816,2020-06-25 12:00:00+00:00,Sitka City and Borough,Southeast,817
+817,2020-06-25 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,818
+818,2020-06-25 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,819
+819,2020-06-25 12:00:00+00:00,Anchorage Municipality,Anchorage,820
+820,2020-06-25 12:00:00+00:00,Juneau City and Borough,Southeast,821
+821,2020-06-25 12:00:00+00:00,Anchorage Municipality,Anchorage,822
+822,2020-06-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,823
+823,2020-06-25 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,824
+824,2020-06-25 12:00:00+00:00,Anchorage Municipality,Anchorage,825
+825,2020-06-25 12:00:00+00:00,Anchorage Municipality,Anchorage,826
+826,2020-06-25 12:00:00+00:00,Anchorage Municipality,Anchorage,827
+827,2020-06-25 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,828
+828,2020-06-25 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,829
+829,2020-06-25 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,830
+830,2020-06-25 12:00:00+00:00,Juneau City and Borough,Southeast,831
+831,2020-06-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,832
+832,2020-06-25 12:00:00+00:00,Anchorage Municipality,Anchorage,833
+833,2020-06-25 12:00:00+00:00,Fairbanks North Star Borough,Interior,834
+834,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,835
+835,2020-06-26 12:00:00+00:00,Bethel Census Area,Southwest,836
+836,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,837
+837,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,838
+838,2020-06-26 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,839
+839,2020-06-26 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,840
+840,2020-06-26 12:00:00+00:00,Fairbanks North Star Borough,Interior,841
+841,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,842
+842,2020-06-26 12:00:00+00:00,Yukon-Koyukuk Census Area,Interior,843
+843,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,844
+844,2020-06-26 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,845
+845,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,846
+846,2020-06-26 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,847
+847,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,848
+848,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,849
+849,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,850
+850,2020-06-26 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,851
+851,2020-06-26 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,852
+852,2020-06-26 12:00:00+00:00,Anchorage Municipality,Anchorage,853
+853,2020-06-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,854
+854,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,855
+855,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,856
+856,2020-06-27 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,857
+857,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,858
+858,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,859
+859,2020-06-27 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,860
+860,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,861
+861,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,862
+862,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,863
+863,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,864
+864,2020-06-27 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,865
+865,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,866
+866,2020-06-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,867
+867,2020-06-27 12:00:00+00:00,Valdez-Cordova Census Area,Gulf Coast,868
+868,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,869
+869,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,870
+870,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,871
+871,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,872
+872,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,873
+873,2020-06-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,874
+874,2020-06-27 12:00:00+00:00,Anchorage Municipality,Anchorage,875
+875,2020-06-27 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,876
+876,2020-06-27 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,877
+877,2020-06-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,878
+878,2020-06-27 12:00:00+00:00,Fairbanks North Star Borough,Interior,879
+879,2020-06-27 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,880
+880,2020-06-27 12:00:00+00:00,Juneau City and Borough,Southeast,881
+881,2020-06-27 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,882
+882,2020-06-28 12:00:00+00:00,Fairbanks North Star Borough,Interior,883
+883,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,884
+884,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,885
+885,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,886
+886,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,887
+887,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,888
+888,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,889
+889,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,890
+890,2020-06-28 12:00:00+00:00,Anchorage Municipality,Anchorage,891
+891,2020-06-28 12:00:00+00:00,Anchorage Municipality,Anchorage,892
+892,2020-06-28 12:00:00+00:00,Anchorage Municipality,Anchorage,893
+893,2020-06-28 12:00:00+00:00,Anchorage Municipality,Anchorage,894
+894,2020-06-28 12:00:00+00:00,Anchorage Municipality,Anchorage,895
+895,2020-06-28 12:00:00+00:00,Fairbanks North Star Borough,Interior,896
+896,2020-06-28 12:00:00+00:00,Anchorage Municipality,Anchorage,897
+897,2020-06-28 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,898
+898,2020-06-28 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,899
+899,2020-06-28 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,900
+900,2020-06-28 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,901
+901,2020-06-28 12:00:00+00:00,Anchorage Municipality,Anchorage,902
+902,2020-06-28 12:00:00+00:00,Nome Census Area,Northern,903
+903,2020-06-29 12:00:00+00:00,Valdez-Cordova Census Area,Gulf Coast,904
+904,2020-06-29 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,905
+905,2020-06-29 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,906
+906,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,907
+907,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,908
+908,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,909
+909,2020-06-29 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,910
+910,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,911
+911,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,912
+912,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,913
+913,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,914
+914,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,915
+915,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,916
+916,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,917
+917,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,918
+918,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,919
+919,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,920
+920,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,921
+921,2020-06-29 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,922
+922,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,923
+923,2020-06-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,924
+924,2020-06-29 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,925
+925,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,926
+926,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,927
+927,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,928
+928,2020-06-29 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,929
+929,2020-06-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,930
+930,2020-06-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,931
+931,2020-06-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,932
+932,2020-06-29 12:00:00+00:00,Fairbanks North Star Borough,Interior,933
+933,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,934
+934,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,935
+935,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,936
+936,2020-06-29 12:00:00+00:00,Anchorage Municipality,Anchorage,937
+937,2020-06-29 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,938
+938,2020-06-29 12:00:00+00:00,Juneau City and Borough,Southeast,939
+939,2020-06-30 12:00:00+00:00,Northwest Arctic Borough,Northern,940
+940,2020-06-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,941
+941,2020-06-30 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,942
+942,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,943
+943,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,944
+944,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,945
+945,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,946
+946,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,947
+947,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,948
+948,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,949
+949,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,950
+950,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,951
+951,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,952
+952,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,953
+953,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,954
+954,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,955
+955,2020-06-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,956
+956,2020-06-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,957
+957,2020-06-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,958
+958,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,959
+959,2020-06-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,960
+960,2020-06-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,961
+961,2020-06-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,962
+962,2020-06-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,963
+963,2020-06-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,964
+964,2020-06-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,965
+965,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,966
+966,2020-06-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,967
+967,2020-06-30 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,968
+968,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,969
+969,2020-06-30 12:00:00+00:00,Anchorage Municipality,Anchorage,970
+970,2020-06-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,971
+971,2020-06-30 12:00:00+00:00,Fairbanks North Star Borough,Interior,972
+972,2020-06-30 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,973
+973,2020-06-30 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,974
+974,2020-06-30 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,975
+975,2020-06-30 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,976
+976,2020-06-30 12:00:00+00:00,Nome Census Area,Northern,977
+977,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,978
+978,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,979
+979,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,980
+980,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,981
+981,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,982
+982,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,983
+983,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,984
+984,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,985
+985,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,986
+986,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,987
+987,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,988
+988,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,989
+989,2020-07-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,990
+990,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,991
+991,2020-07-01 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,992
+992,2020-07-01 12:00:00+00:00,Fairbanks North Star Borough,Interior,993
+993,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,994
+994,2020-07-01 12:00:00+00:00,Kodiak Island Borough,Gulf Coast,995
+995,2020-07-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,996
+996,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,997
+997,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,998
+998,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,999
+999,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1000
+1000,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1001
+1001,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1002
+1002,2020-07-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1003
+1003,2020-07-01 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1004
+1004,2020-07-01 12:00:00+00:00,Southeast Fairbanks Census Area,Interior,1005
+1005,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1006
+1006,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1007
+1007,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1008
+1008,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1009
+1009,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1010
+1010,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1011
+1011,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1012
+1012,2020-07-01 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1013
+1013,2020-07-01 12:00:00+00:00,Anchorage Municipality,Anchorage,1014
+1014,2020-07-01 12:00:00+00:00,Sitka City and Borough,Southeast,1015
+1015,2020-07-01 12:00:00+00:00,Fairbanks North Star Borough,Interior,1016
+1016,2020-07-02 12:00:00+00:00,Valdez-Cordova Census Area,Gulf Coast,1017
+1017,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1018
+1018,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1019
+1019,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1020
+1020,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1021
+1021,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1022
+1022,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1023
+1023,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1024
+1024,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1025
+1025,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1026
+1026,2020-07-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1027
+1027,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1028
+1028,2020-07-02 12:00:00+00:00,Nome Census Area,Northern,1029
+1029,2020-07-02 12:00:00+00:00,Kusilvak Census Area,Southwest,1030
+1030,2020-07-02 12:00:00+00:00,Bethel Census Area,Southwest,1031
+1031,2020-07-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1032
+1032,2020-07-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1033
+1033,2020-07-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1034
+1034,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1035
+1035,2020-07-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1036
+1036,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1037
+1037,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1038
+1038,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1039
+1039,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1040
+1040,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1041
+1041,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1042
+1042,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1043
+1043,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1044
+1044,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1045
+1045,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1046
+1046,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1047
+1047,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1048
+1048,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1049
+1049,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1050
+1050,2020-07-02 12:00:00+00:00,Fairbanks North Star Borough,Interior,1051
+1051,2020-07-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1052
+1052,2020-07-02 12:00:00+00:00,Juneau City and Borough,Southeast,1053
+1053,2020-07-02 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1054
+1054,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1055
+1055,2020-07-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1056
+1056,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1057
+1057,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1058
+1058,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1059
+1059,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1060
+1060,2020-07-02 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1061
+1061,2020-07-02 12:00:00+00:00,Anchorage Municipality,Anchorage,1062
+1062,2020-07-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,1063
+1063,2020-07-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,1064
+1064,2020-07-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1065
+1065,2020-07-03 12:00:00+00:00,Bethel Census Area,Southwest,1066
+1066,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1067
+1067,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1068
+1068,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1069
+1069,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1070
+1070,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1071
+1071,2020-07-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,1072
+1072,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1073
+1073,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1074
+1074,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1075
+1075,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1076
+1076,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1077
+1077,2020-07-03 12:00:00+00:00,Yukon-Koyukuk Census Area,Interior,1078
+1078,2020-07-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1079
+1079,2020-07-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1080
+1080,2020-07-03 12:00:00+00:00,Petersburg Borough,Southeast,1081
+1081,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1082
+1082,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1083
+1083,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1084
+1084,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1085
+1085,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1086
+1086,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1087
+1087,2020-07-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1088
+1088,2020-07-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,1089
+1089,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1090
+1090,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1091
+1091,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1092
+1092,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1093
+1093,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1094
+1094,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1095
+1095,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1096
+1096,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1097
+1097,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1098
+1098,2020-07-03 12:00:00+00:00,Juneau City and Borough,Southeast,1099
+1099,2020-07-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1100
+1100,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1101
+1101,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1102
+1102,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1103
+1103,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1104
+1104,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1105
+1105,2020-07-03 12:00:00+00:00,Anchorage Municipality,Anchorage,1106
+1106,2020-07-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1107
+1107,2020-07-03 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1108
+1108,2020-07-03 12:00:00+00:00,Bristol Bay plus Lake and Peninsula,Southwest,1109
+1109,2020-07-03 12:00:00+00:00,Fairbanks North Star Borough,Interior,1110
+1110,2020-07-03 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1111
+1111,2020-07-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,1112
+1112,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1113
+1113,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1114
+1114,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1115
+1115,2020-07-04 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1116
+1116,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1117
+1117,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1118
+1118,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1119
+1119,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1120
+1120,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1121
+1121,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1122
+1122,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1123
+1123,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1124
+1124,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1125
+1125,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1126
+1126,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1127
+1127,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1128
+1128,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1129
+1129,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1130
+1130,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1131
+1131,2020-07-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1132
+1132,2020-07-04 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1133
+1133,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1134
+1134,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1135
+1135,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1136
+1136,2020-07-04 12:00:00+00:00,Anchorage Municipality,Anchorage,1137
+1137,2020-07-04 12:00:00+00:00,Fairbanks North Star Borough,Interior,1138
+1138,2020-07-05 12:00:00+00:00,Fairbanks North Star Borough,Interior,1139
+1139,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1140
+1140,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1141
+1141,2020-07-05 12:00:00+00:00,Fairbanks North Star Borough,Interior,1142
+1142,2020-07-05 12:00:00+00:00,Fairbanks North Star Borough,Interior,1143
+1143,2020-07-05 12:00:00+00:00,Fairbanks North Star Borough,Interior,1144
+1144,2020-07-05 12:00:00+00:00,Fairbanks North Star Borough,Interior,1145
+1145,2020-07-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1146
+1146,2020-07-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1147
+1147,2020-07-05 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1148
+1148,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1149
+1149,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1150
+1150,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1151
+1151,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1152
+1152,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1153
+1153,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1154
+1154,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1155
+1155,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1156
+1156,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1157
+1157,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1158
+1158,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1159
+1159,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1160
+1160,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1161
+1161,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1162
+1162,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1163
+1163,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1164
+1164,2020-07-05 12:00:00+00:00,Anchorage Municipality,Anchorage,1165
+1165,2020-07-05 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1166
+1166,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1167
+1167,2020-07-06 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1168
+1168,2020-07-06 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1169
+1169,2020-07-06 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1170
+1170,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1171
+1171,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1172
+1172,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1173
+1173,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1174
+1174,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1175
+1175,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1176
+1176,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1177
+1177,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1178
+1178,2020-07-06 12:00:00+00:00,Valdez-Cordova Census Area,Gulf Coast,1179
+1179,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1180
+1180,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1181
+1181,2020-07-06 12:00:00+00:00,Ketchikan Gateway Borough,Southeast,1182
+1182,2020-07-06 12:00:00+00:00,Yukon-Koyukuk Census Area,Interior,1183
+1183,2020-07-06 12:00:00+00:00,Anchorage Municipality,Anchorage,1184
+1184,2020-07-07 12:00:00+00:00,Northwest Arctic Borough,Northern,1185
+1185,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1186
+1186,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1187
+1187,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1188
+1188,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1189
+1189,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1190
+1190,2020-07-07 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1191
+1191,2020-07-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,1192
+1192,2020-07-07 12:00:00+00:00,Kusilvak Census Area,Southwest,1193
+1193,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1194
+1194,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1195
+1195,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1196
+1196,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1197
+1197,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1198
+1198,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1199
+1199,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1200
+1200,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1201
+1201,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1202
+1202,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1203
+1203,2020-07-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,1204
+1204,2020-07-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,1205
+1205,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1206
+1206,2020-07-07 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1207
+1207,2020-07-07 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1208
+1208,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1209
+1209,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1210
+1210,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1211
+1211,2020-07-07 12:00:00+00:00,Anchorage Municipality,Anchorage,1212
+1212,2020-07-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,1213
+1213,2020-07-07 12:00:00+00:00,Aleutians West Census Area,Southwest,1214
+1214,2020-07-07 12:00:00+00:00,Fairbanks North Star Borough,Interior,1215
+1215,2020-07-07 12:00:00+00:00,Valdez-Cordova Census Area,Gulf Coast,1216
+1216,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1217
+1217,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1218
+1218,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1219
+1219,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1220
+1220,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1221
+1221,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1222
+1222,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1223
+1223,2020-07-07 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1224
+1224,2020-07-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1225
+1225,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1226
+1226,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1227
+1227,2020-07-08 12:00:00+00:00,Petersburg Borough,Southeast,1228
+1228,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1229
+1229,2020-07-08 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1230
+1230,2020-07-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1231
+1231,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1232
+1232,2020-07-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1233
+1233,2020-07-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1234
+1234,2020-07-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1235
+1235,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1236
+1236,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1237
+1237,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1238
+1238,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1239
+1239,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1240
+1240,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1241
+1241,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1242
+1242,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1243
+1243,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1244
+1244,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1245
+1245,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1246
+1246,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1247
+1247,2020-07-08 12:00:00+00:00,Bethel Census Area,Southwest,1248
+1248,2020-07-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1249
+1249,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1250
+1250,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1251
+1251,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1252
+1252,2020-07-08 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1253
+1253,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1254
+1254,2020-07-08 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1255
+1255,2020-07-08 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1256
+1256,2020-07-08 12:00:00+00:00,Nome Census Area,Northern,1257
+1257,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1258
+1258,2020-07-08 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1259
+1259,2020-07-08 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1260
+1260,2020-07-08 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1261
+1261,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1262
+1262,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1263
+1263,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1264
+1264,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1265
+1265,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1266
+1266,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1267
+1267,2020-07-08 12:00:00+00:00,Fairbanks North Star Borough,Interior,1268
+1268,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1269
+1269,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1270
+1270,2020-07-08 12:00:00+00:00,Anchorage Municipality,Anchorage,1271
+1271,2020-07-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1272
+1272,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1273
+1273,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1274
+1274,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1275
+1275,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1276
+1276,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1277
+1277,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1278
+1278,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1279
+1279,2020-07-09 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1280
+1280,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1281
+1281,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1282
+1282,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1283
+1283,2020-07-09 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1284
+1284,2020-07-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1285
+1285,2020-07-09 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1286
+1286,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1287
+1287,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1288
+1288,2020-07-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1289
+1289,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1290
+1290,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1291
+1291,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1292
+1292,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1293
+1293,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1294
+1294,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1295
+1295,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1296
+1296,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1297
+1297,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1298
+1298,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1299
+1299,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1300
+1300,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1301
+1301,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1302
+1302,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1303
+1303,2020-07-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1304
+1304,2020-07-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1305
+1305,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1306
+1306,2020-07-09 12:00:00+00:00,Fairbanks North Star Borough,Interior,1307
+1307,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1308
+1308,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1309
+1309,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1310
+1310,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1311
+1311,2020-07-09 12:00:00+00:00,Juneau City and Borough,Southeast,1312
+1312,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1313
+1313,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1314
+1314,2020-07-09 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1315
+1315,2020-07-09 12:00:00+00:00,Nome Census Area,Northern,1316
+1316,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1317
+1317,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1318
+1318,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1319
+1319,2020-07-09 12:00:00+00:00,Anchorage Municipality,Anchorage,1320
+1320,2020-07-09 12:00:00+00:00,Nome Census Area,Northern,1321
+1321,2020-07-09 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1322
+1322,2020-07-10 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1323
+1323,2020-07-10 12:00:00+00:00,Bethel Census Area,Southwest,1324
+1324,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1325
+1325,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1326
+1326,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1327
+1327,2020-07-10 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1328
+1328,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1329
+1329,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1330
+1330,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1331
+1331,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1332
+1332,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1333
+1333,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1334
+1334,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1335
+1335,2020-07-10 12:00:00+00:00,Matanuska-Susitna Borough,Matanuska-Susitna,1336
+1336,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1337
+1337,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1338
+1338,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1339
+1339,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1340
+1340,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1341
+1341,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1342
+1342,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1343
+1343,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1344
+1344,2020-07-10 12:00:00+00:00,Yukon-Koyukuk Census Area,Interior,1345
+1345,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1346
+1346,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1347
+1347,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1348
+1348,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1349
+1349,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1350
+1350,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1351
+1351,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1352
+1352,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1353
+1353,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1354
+1354,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1355
+1355,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1356
+1356,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1357
+1357,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1358
+1358,2020-07-10 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1359
+1359,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1360
+1360,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1361
+1361,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1362
+1362,2020-07-10 12:00:00+00:00,Fairbanks North Star Borough,Interior,1363
+1363,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1364
+1364,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1365
+1365,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1366
+1366,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1367
+1367,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1368
+1368,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1369
+1369,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1370
+1370,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1371
+1371,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1372
+1372,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1373
+1373,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1374
+1374,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1375
+1375,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1376
+1376,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1377
+1377,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1378
+1378,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1379
+1379,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1380
+1380,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1381
+1381,2020-07-10 12:00:00+00:00,Anchorage Municipality,Anchorage,1382
+1382,2020-07-10 12:00:00+00:00,Juneau City and Borough,Southeast,1383
+1383,2020-07-10 12:00:00+00:00,Kenai Peninsula Borough,Gulf Coast,1384
+1384,2020-07-10 12:00:00+00:00,Yukon-Koyukuk Census Area,Interior,1385

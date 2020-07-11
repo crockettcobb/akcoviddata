@@ -104,20 +104,20 @@ ReportDate,CountyFIPS,RegionCode,FID,Temporary_County,Temporary_Region,Visit_Pur
 2020-06-18 12:00:00+00:00,300,1,103,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-19 12:00:00+00:00,275,5,104,Wrangell City and Borough,Southeast,Seafood Industry
 2020-06-19 12:00:00+00:00,90,6,105,Fairbanks North Star Borough,Interior,Mining
-2020-06-20 12:00:00+00:00,198,5,106,Prince of Wales-Hyder Census Area,Southeast,Other
-2020-06-20 12:00:00+00:00,20,7,107,Anchorage Municipality,Anchorage,Other
-2020-06-21 12:00:00+00:00,100,5,108,Haines Borough,Southeast,Seafood Industry
+2020-06-20 12:00:00+00:00,300,1,106,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-20 12:00:00+00:00,198,5,107,Prince of Wales-Hyder Census Area,Southeast,Other
+2020-06-20 12:00:00+00:00,20,7,108,Anchorage Municipality,Anchorage,Other
 2020-06-21 12:00:00+00:00,100,5,109,Haines Borough,Southeast,Seafood Industry
 2020-06-21 12:00:00+00:00,100,5,110,Haines Borough,Southeast,Seafood Industry
-2020-06-21 12:00:00+00:00,275,5,111,Wrangell City and Borough,Southeast,Visitors
-2020-06-22 12:00:00+00:00,20,7,112,Anchorage Municipality,Anchorage,Visitors
-2020-06-22 12:00:00+00:00,90,6,113,Fairbanks North Star Borough,Interior,Mining
+2020-06-21 12:00:00+00:00,100,5,111,Haines Borough,Southeast,Seafood Industry
+2020-06-21 12:00:00+00:00,275,5,112,Wrangell City and Borough,Southeast,Visitors
+2020-06-22 12:00:00+00:00,20,7,113,Anchorage Municipality,Anchorage,Visitors
 2020-06-22 12:00:00+00:00,90,6,114,Fairbanks North Star Borough,Interior,Mining
-2020-06-22 12:00:00+00:00,130,5,115,Ketchikan Gateway Borough,Southeast,Seafood Industry
+2020-06-22 12:00:00+00:00,90,6,115,Fairbanks North Star Borough,Interior,Mining
 2020-06-22 12:00:00+00:00,130,5,116,Ketchikan Gateway Borough,Southeast,Seafood Industry
-2020-06-22 12:00:00+00:00,261,4,117,Valdez-Cordova Census Area,Gulf Coast,Seafood Industry
+2020-06-22 12:00:00+00:00,130,5,117,Ketchikan Gateway Borough,Southeast,Seafood Industry
 2020-06-22 12:00:00+00:00,261,4,118,Valdez-Cordova Census Area,Gulf Coast,Seafood Industry
-2020-06-22 12:00:00+00:00,70,1,119,Dillingham Census Area,Southwest,Seafood Industry
+2020-06-22 12:00:00+00:00,261,4,119,Valdez-Cordova Census Area,Gulf Coast,Seafood Industry
 2020-06-22 12:00:00+00:00,70,1,120,Dillingham Census Area,Southwest,Seafood Industry
 2020-06-22 12:00:00+00:00,70,1,121,Dillingham Census Area,Southwest,Seafood Industry
 2020-06-22 12:00:00+00:00,70,1,122,Dillingham Census Area,Southwest,Seafood Industry
@@ -128,104 +128,104 @@ ReportDate,CountyFIPS,RegionCode,FID,Temporary_County,Temporary_Region,Visit_Pur
 2020-06-22 12:00:00+00:00,70,1,127,Dillingham Census Area,Southwest,Seafood Industry
 2020-06-22 12:00:00+00:00,70,1,128,Dillingham Census Area,Southwest,Seafood Industry
 2020-06-22 12:00:00+00:00,70,1,129,Dillingham Census Area,Southwest,Seafood Industry
-2020-06-23 12:00:00+00:00,70,1,130,Dillingham Census Area,Southwest,Seafood Industry
-2020-06-23 12:00:00+00:00,150,4,131,Kodiak Island Borough,Gulf Coast,Other
-2020-06-23 12:00:00+00:00,68,6,132,Denali Borough,Interior,Other
-2020-06-23 12:00:00+00:00,300,1,133,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-23 12:00:00+00:00,90,6,134,Fairbanks North Star Borough,Interior,Mining
-2020-06-23 12:00:00+00:00,170,3,135,Matanuska-Susitna Borough,Matanuska-Susitna,Visitors
-2020-06-23 12:00:00+00:00,20,7,136,Anchorage Municipality,Anchorage,Visitors
-2020-06-23 12:00:00+00:00,90,6,137,Fairbanks North Star Borough,Interior,Mining
-2020-06-23 12:00:00+00:00,90,6,138,Fairbanks North Star Borough,Interior,Visitors
-2020-06-24 12:00:00+00:00,20,7,139,Anchorage Municipality,Anchorage,Seafood Industry
-2020-06-24 12:00:00+00:00,300,1,140,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-22 12:00:00+00:00,70,1,130,Dillingham Census Area,Southwest,Seafood Industry
+2020-06-23 12:00:00+00:00,70,1,131,Dillingham Census Area,Southwest,Seafood Industry
+2020-06-23 12:00:00+00:00,150,4,132,Kodiak Island Borough,Gulf Coast,Other
+2020-06-23 12:00:00+00:00,68,6,133,Denali Borough,Interior,Other
+2020-06-23 12:00:00+00:00,300,1,134,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-23 12:00:00+00:00,90,6,135,Fairbanks North Star Borough,Interior,Mining
+2020-06-23 12:00:00+00:00,170,3,136,Matanuska-Susitna Borough,Matanuska-Susitna,Visitors
+2020-06-23 12:00:00+00:00,20,7,137,Anchorage Municipality,Anchorage,Visitors
+2020-06-23 12:00:00+00:00,90,6,138,Fairbanks North Star Borough,Interior,Mining
+2020-06-23 12:00:00+00:00,90,6,139,Fairbanks North Star Borough,Interior,Visitors
+2020-06-24 12:00:00+00:00,20,7,140,Anchorage Municipality,Anchorage,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,141,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,142,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,143,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,144,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-24 12:00:00+00:00,122,4,145,Kenai Peninsula Borough,Gulf Coast,Seafood Industry
-2020-06-24 12:00:00+00:00,300,1,146,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-24 12:00:00+00:00,300,1,145,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-24 12:00:00+00:00,122,4,146,Kenai Peninsula Borough,Gulf Coast,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,147,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-24 12:00:00+00:00,275,5,148,Wrangell City and Borough,Southeast,Seafood Industry
-2020-06-24 12:00:00+00:00,300,1,149,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-24 12:00:00+00:00,275,5,150,Wrangell City and Borough,Southeast,Seafood Industry
-2020-06-24 12:00:00+00:00,20,7,151,Anchorage Municipality,Anchorage,Visitors
-2020-06-24 12:00:00+00:00,261,4,152,Valdez-Cordova Census Area,Gulf Coast,Other
-2020-06-24 12:00:00+00:00,300,1,153,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-24 12:00:00+00:00,300,1,148,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-24 12:00:00+00:00,275,5,149,Wrangell City and Borough,Southeast,Seafood Industry
+2020-06-24 12:00:00+00:00,300,1,150,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-24 12:00:00+00:00,275,5,151,Wrangell City and Borough,Southeast,Seafood Industry
+2020-06-24 12:00:00+00:00,20,7,152,Anchorage Municipality,Anchorage,Visitors
+2020-06-24 12:00:00+00:00,261,4,153,Valdez-Cordova Census Area,Gulf Coast,Other
 2020-06-24 12:00:00+00:00,300,1,154,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,155,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,156,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-24 12:00:00+00:00,300,1,157,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-25 12:00:00+00:00,300,1,158,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-25 12:00:00+00:00,50,1,159,Bethel Census Area,Southwest,Other
-2020-06-25 12:00:00+00:00,20,7,160,Anchorage Municipality,Anchorage,Other
-2020-06-25 12:00:00+00:00,300,1,161,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-24 12:00:00+00:00,300,1,158,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-25 12:00:00+00:00,300,1,159,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-25 12:00:00+00:00,50,1,160,Bethel Census Area,Southwest,Other
+2020-06-25 12:00:00+00:00,20,7,161,Anchorage Municipality,Anchorage,Other
 2020-06-25 12:00:00+00:00,300,1,162,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-25 12:00:00+00:00,20,7,163,Anchorage Municipality,Anchorage,Visitors
-2020-06-25 12:00:00+00:00,130,5,164,Ketchikan Gateway Borough,Southeast,Other
-2020-06-25 12:00:00+00:00,300,1,165,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-25 12:00:00+00:00,300,1,163,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-25 12:00:00+00:00,20,7,164,Anchorage Municipality,Anchorage,Visitors
+2020-06-25 12:00:00+00:00,130,5,165,Ketchikan Gateway Borough,Southeast,Other
 2020-06-25 12:00:00+00:00,300,1,166,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-25 12:00:00+00:00,20,7,167,Anchorage Municipality,Anchorage,Tourism
-2020-06-25 12:00:00+00:00,180,2,168,Nome Census Area,Northern,Other
-2020-06-26 12:00:00+00:00,300,1,169,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-26 12:00:00+00:00,20,7,170,Anchorage Municipality,Anchorage,0
+2020-06-25 12:00:00+00:00,300,1,167,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-25 12:00:00+00:00,20,7,168,Anchorage Municipality,Anchorage,Tourism
+2020-06-25 12:00:00+00:00,180,2,169,Nome Census Area,Northern,Other
+2020-06-26 12:00:00+00:00,300,1,170,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-26 12:00:00+00:00,20,7,171,Anchorage Municipality,Anchorage,0
-2020-06-26 12:00:00+00:00,90,6,172,Fairbanks North Star Borough,Interior,Mining
-2020-06-26 12:00:00+00:00,70,1,173,Dillingham Census Area,Southwest,Seafood Industry
+2020-06-26 12:00:00+00:00,20,7,172,Anchorage Municipality,Anchorage,0
+2020-06-26 12:00:00+00:00,90,6,173,Fairbanks North Star Borough,Interior,Mining
 2020-06-26 12:00:00+00:00,70,1,174,Dillingham Census Area,Southwest,Seafood Industry
-2020-06-26 12:00:00+00:00,110,5,175,Juneau City and Borough,Southeast,Mining
-2020-06-26 12:00:00+00:00,261,4,176,Valdez-Cordova Census Area,Gulf Coast,Tourism
-2020-06-27 12:00:00+00:00,70,1,177,Dillingham Census Area,Southwest,Seafood Industry
-2020-06-27 12:00:00+00:00,240,6,178,Southeast Fairbanks Census Area,Interior,Mining
+2020-06-26 12:00:00+00:00,70,1,175,Dillingham Census Area,Southwest,Seafood Industry
+2020-06-26 12:00:00+00:00,110,5,176,Juneau City and Borough,Southeast,Mining
+2020-06-26 12:00:00+00:00,261,4,177,Valdez-Cordova Census Area,Gulf Coast,Tourism
+2020-06-27 12:00:00+00:00,70,1,178,Dillingham Census Area,Southwest,Seafood Industry
 2020-06-27 12:00:00+00:00,240,6,179,Southeast Fairbanks Census Area,Interior,Mining
-2020-06-28 12:00:00+00:00,122,4,180,Kenai Peninsula Borough,Gulf Coast,0
+2020-06-27 12:00:00+00:00,240,6,180,Southeast Fairbanks Census Area,Interior,Mining
 2020-06-28 12:00:00+00:00,122,4,181,Kenai Peninsula Borough,Gulf Coast,0
-2020-06-28 12:00:00+00:00,170,3,182,Matanuska-Susitna Borough,Matanuska-Susitna,0
-2020-06-28 12:00:00+00:00,20,7,183,Anchorage Municipality,Anchorage,Visitors
-2020-06-29 12:00:00+00:00,122,4,184,Kenai Peninsula Borough,Gulf Coast,Tourism
+2020-06-28 12:00:00+00:00,122,4,182,Kenai Peninsula Borough,Gulf Coast,0
+2020-06-28 12:00:00+00:00,170,3,183,Matanuska-Susitna Borough,Matanuska-Susitna,0
+2020-06-28 12:00:00+00:00,20,7,184,Anchorage Municipality,Anchorage,Visitors
 2020-06-29 12:00:00+00:00,122,4,185,Kenai Peninsula Borough,Gulf Coast,Tourism
-2020-06-29 12:00:00+00:00,220,5,186,Sitka City and Borough,Southeast,Seafood Industry
-2020-06-29 12:00:00+00:00,300,1,187,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-29 12:00:00+00:00,122,4,186,Kenai Peninsula Borough,Gulf Coast,Tourism
+2020-06-29 12:00:00+00:00,220,5,187,Sitka City and Borough,Southeast,Seafood Industry
 2020-06-29 12:00:00+00:00,300,1,188,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-29 12:00:00+00:00,300,1,189,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-29 12:00:00+00:00,300,1,190,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-06-29 12:00:00+00:00,300,1,191,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-06-29 12:00:00+00:00,70,1,192,Dillingham Census Area,Southwest,Seafood Industry
-2020-06-29 12:00:00+00:00,20,7,193,Anchorage Municipality,Anchorage,0
-2020-06-29 12:00:00+00:00,122,4,194,Kenai Peninsula Borough,Gulf Coast,0
-2020-06-30 12:00:00+00:00,90,6,195,Fairbanks North Star Borough,Interior,0
-2020-06-30 12:00:00+00:00,220,5,196,Sitka City and Borough,Southeast,Seafood Industry
-2020-06-30 12:00:00+00:00,20,7,197,Anchorage Municipality,Anchorage,Visitors
-2020-06-30 12:00:00+00:00,220,5,198,Sitka City and Borough,Southeast,Seafood Industry
-2020-07-01 12:00:00+00:00,100,5,199,Haines Borough,Southeast,Other
-2020-07-01 12:00:00+00:00,122,4,200,Kenai Peninsula Borough,Gulf Coast,0
-2020-07-01 12:00:00+00:00,150,4,201,Kodiak Island Borough,Gulf Coast,0
-2020-07-01 12:00:00+00:00,195,5,202,Petersburg Borough,Southeast,0
-2020-07-01 12:00:00+00:00,122,4,203,Kenai Peninsula Borough,Gulf Coast,0
+2020-06-29 12:00:00+00:00,300,1,192,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-06-29 12:00:00+00:00,70,1,193,Dillingham Census Area,Southwest,Seafood Industry
+2020-06-29 12:00:00+00:00,20,7,194,Anchorage Municipality,Anchorage,0
+2020-06-29 12:00:00+00:00,122,4,195,Kenai Peninsula Borough,Gulf Coast,0
+2020-06-30 12:00:00+00:00,90,6,196,Fairbanks North Star Borough,Interior,0
+2020-06-30 12:00:00+00:00,220,5,197,Sitka City and Borough,Southeast,Seafood Industry
+2020-06-30 12:00:00+00:00,20,7,198,Anchorage Municipality,Anchorage,Visitors
+2020-06-30 12:00:00+00:00,220,5,199,Sitka City and Borough,Southeast,Seafood Industry
+2020-07-01 12:00:00+00:00,100,5,200,Haines Borough,Southeast,Other
+2020-07-01 12:00:00+00:00,122,4,201,Kenai Peninsula Borough,Gulf Coast,0
+2020-07-01 12:00:00+00:00,150,4,202,Kodiak Island Borough,Gulf Coast,0
+2020-07-01 12:00:00+00:00,195,5,203,Petersburg Borough,Southeast,0
 2020-07-01 12:00:00+00:00,122,4,204,Kenai Peninsula Borough,Gulf Coast,0
-2020-07-01 12:00:00+00:00,20,7,205,Anchorage Municipality,Anchorage,0
-2020-07-01 12:00:00+00:00,16,1,206,Aleutians West Census Area,Southwest,Seafood Industry
-2020-07-01 12:00:00+00:00,70,1,207,Dillingham Census Area,Southwest,Seafood Industry
+2020-07-01 12:00:00+00:00,122,4,205,Kenai Peninsula Borough,Gulf Coast,0
+2020-07-01 12:00:00+00:00,20,7,206,Anchorage Municipality,Anchorage,0
+2020-07-01 12:00:00+00:00,16,1,207,Aleutians West Census Area,Southwest,Seafood Industry
 2020-07-01 12:00:00+00:00,70,1,208,Dillingham Census Area,Southwest,Seafood Industry
-2020-07-01 12:00:00+00:00,300,1,209,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-07-02 12:00:00+00:00,90,6,210,Fairbanks North Star Borough,Interior,0
-2020-07-02 12:00:00+00:00,122,4,211,Kenai Peninsula Borough,Gulf Coast,Tourism
-2020-07-02 12:00:00+00:00,300,1,212,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-01 12:00:00+00:00,70,1,209,Dillingham Census Area,Southwest,Seafood Industry
+2020-07-01 12:00:00+00:00,300,1,210,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-02 12:00:00+00:00,90,6,211,Fairbanks North Star Borough,Interior,0
+2020-07-02 12:00:00+00:00,122,4,212,Kenai Peninsula Borough,Gulf Coast,Tourism
 2020-07-02 12:00:00+00:00,300,1,213,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-07-02 12:00:00+00:00,90,6,214,Fairbanks North Star Borough,Interior,0
-2020-07-02 12:00:00+00:00,122,4,215,Kenai Peninsula Borough,Gulf Coast,Other
-2020-07-02 12:00:00+00:00,20,7,216,Anchorage Municipality,Anchorage,Other
+2020-07-02 12:00:00+00:00,300,1,214,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-02 12:00:00+00:00,90,6,215,Fairbanks North Star Borough,Interior,0
+2020-07-02 12:00:00+00:00,122,4,216,Kenai Peninsula Borough,Gulf Coast,Other
 2020-07-02 12:00:00+00:00,20,7,217,Anchorage Municipality,Anchorage,Other
-2020-07-02 12:00:00+00:00,300,1,218,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-02 12:00:00+00:00,20,7,218,Anchorage Municipality,Anchorage,Other
 2020-07-02 12:00:00+00:00,300,1,219,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-07-02 12:00:00+00:00,300,1,220,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-07-02 12:00:00+00:00,300,1,221,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
 2020-07-02 12:00:00+00:00,300,1,222,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
-2020-07-02 12:00:00+00:00,70,1,223,Dillingham Census Area,Southwest,Visitors
-2020-07-03 12:00:00+00:00,90,6,224,Fairbanks North Star Borough,Interior,0
+2020-07-02 12:00:00+00:00,300,1,223,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-02 12:00:00+00:00,70,1,224,Dillingham Census Area,Southwest,Visitors
 2020-07-03 12:00:00+00:00,90,6,225,Fairbanks North Star Borough,Interior,0
-2020-07-03 12:00:00+00:00,20,7,226,Anchorage Municipality,Anchorage,0
-2020-07-03 12:00:00+00:00,110,5,227,Juneau City and Borough,Southeast,0
+2020-07-03 12:00:00+00:00,90,6,226,Fairbanks North Star Borough,Interior,0
+2020-07-03 12:00:00+00:00,20,7,227,Anchorage Municipality,Anchorage,0
 2020-07-03 12:00:00+00:00,20,7,228,Anchorage Municipality,Anchorage,Seafood Industry
 2020-07-03 12:00:00+00:00,261,4,229,Valdez-Cordova Census Area,Gulf Coast,Seafood Industry
 2020-07-03 12:00:00+00:00,261,4,230,Valdez-Cordova Census Area,Gulf Coast,Seafood Industry
@@ -235,4 +235,40 @@ ReportDate,CountyFIPS,RegionCode,FID,Temporary_County,Temporary_Region,Visit_Pur
 2020-07-04 12:00:00+00:00,261,4,234,Valdez-Cordova Census Area,Gulf Coast,Other
 2020-07-04 12:00:00+00:00,20,7,235,Anchorage Municipality,Anchorage,Visitors
 2020-07-05 12:00:00+00:00,110,5,236,Juneau City and Borough,Southeast,0
-2020-07-05 12:00:00+00:00,999,9,237,Unknown,Unknown,0
+2020-07-06 12:00:00+00:00,20,7,237,Anchorage Municipality,Anchorage,Other
+2020-07-06 12:00:00+00:00,122,4,238,Kenai Peninsula Borough,Gulf Coast,Tourism
+2020-07-06 12:00:00+00:00,20,7,239,Anchorage Municipality,Anchorage,0
+2020-07-06 12:00:00+00:00,20,7,240,Anchorage Municipality,Anchorage,0
+2020-07-06 12:00:00+00:00,999,9,241,Unknown,Unknown,Seafood Industry
+2020-07-06 12:00:00+00:00,20,7,242,Anchorage Municipality,Anchorage,Other
+2020-07-07 12:00:00+00:00,90,6,243,Fairbanks North Star Borough,Interior,Visitors
+2020-07-07 12:00:00+00:00,90,6,244,Fairbanks North Star Borough,Interior,0
+2020-07-07 12:00:00+00:00,20,7,245,Anchorage Municipality,Anchorage,Visitors
+2020-07-07 12:00:00+00:00,130,5,246,Ketchikan Gateway Borough,Southeast,Seafood Industry
+2020-07-07 12:00:00+00:00,300,1,247,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-07 12:00:00+00:00,300,1,248,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-07 12:00:00+00:00,110,5,249,Juneau City and Borough,Southeast,0
+2020-07-07 12:00:00+00:00,122,4,250,Kenai Peninsula Borough,Gulf Coast,Seafood Industry
+2020-07-07 12:00:00+00:00,999,9,251,Unknown,Unknown,0
+2020-07-08 12:00:00+00:00,150,4,252,Kodiak Island Borough,Gulf Coast,Seafood Industry
+2020-07-08 12:00:00+00:00,999,9,253,Unknown,Unknown,0
+2020-07-08 12:00:00+00:00,999,9,254,Unknown,Unknown,0
+2020-07-08 12:00:00+00:00,999,9,255,Unknown,Unknown,0
+2020-07-09 12:00:00+00:00,999,9,256,Unknown,Unknown,Tourism
+2020-07-09 12:00:00+00:00,300,1,257,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-09 12:00:00+00:00,300,1,258,Bristol Bay plus Lake and Peninsula,Southwest,0
+2020-07-09 12:00:00+00:00,300,1,259,Bristol Bay plus Lake and Peninsula,Southwest,Seafood Industry
+2020-07-10 12:00:00+00:00,180,2,260,Nome Census Area,Northern,0
+2020-07-10 12:00:00+00:00,240,6,261,Southeast Fairbanks Census Area,Interior,Mining
+2020-07-10 12:00:00+00:00,300,1,262,Bristol Bay plus Lake and Peninsula,Southwest,0
+2020-07-10 12:00:00+00:00,300,1,263,Bristol Bay plus Lake and Peninsula,Southwest,0
+2020-07-10 12:00:00+00:00,20,7,264,Anchorage Municipality,Anchorage,Visitors
+2020-07-10 12:00:00+00:00,20,7,265,Anchorage Municipality,Anchorage,0
+2020-07-10 12:00:00+00:00,20,7,266,Anchorage Municipality,Anchorage,0
+2020-07-10 12:00:00+00:00,20,7,267,Anchorage Municipality,Anchorage,Visitors
+2020-07-10 12:00:00+00:00,240,6,268,Southeast Fairbanks Census Area,Interior,Mining
+2020-07-10 12:00:00+00:00,240,6,269,Southeast Fairbanks Census Area,Interior,Mining
+2020-07-10 12:00:00+00:00,240,6,270,Southeast Fairbanks Census Area,Interior,Mining
+2020-07-10 12:00:00+00:00,240,6,271,Southeast Fairbanks Census Area,Interior,Mining
+2020-07-10 12:00:00+00:00,240,6,272,Southeast Fairbanks Census Area,Interior,Mining
+2020-07-10 12:00:00+00:00,240,6,273,Southeast Fairbanks Census Area,Interior,Mining
