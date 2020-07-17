@@ -96,7 +96,7 @@ date,region,nonresident_cases
 2020-06-30,Interior,1
 2020-06-30,Southeast,2
 2020-07-01,Anchorage,1
-2020-07-01,Gulf Coast,4
+2020-07-01,Gulf Coast,5
 2020-07-01,Southeast,2
 2020-07-01,Southwest,4
 2020-07-02,Anchorage,2
@@ -120,12 +120,35 @@ date,region,nonresident_cases
 2020-07-07,Interior,2
 2020-07-07,Southeast,2
 2020-07-07,Southwest,2
-2020-07-07,Unknown,1
+2020-07-07,Unknown,2
+2020-07-08,Anchorage,1
 2020-07-08,Gulf Coast,1
-2020-07-08,Unknown,3
+2020-07-08,Southeast,1
+2020-07-08,Unknown,1
 2020-07-09,Southwest,3
 2020-07-09,Unknown,1
-2020-07-10,Anchorage,4
-2020-07-10,Interior,7
+2020-07-10,Anchorage,5
+2020-07-10,Interior,6
 2020-07-10,Northern,1
 2020-07-10,Southwest,2
+2020-07-11,Anchorage,6
+2020-07-11,Gulf Coast,12
+2020-07-11,Interior,2
+2020-07-11,Northern,1
+2020-07-11,Southwest,1
+2020-07-12,Anchorage,8
+2020-07-12,Gulf Coast,1
+2020-07-12,Interior,2
+2020-07-13,Anchorage,10
+2020-07-13,Gulf Coast,1
+2020-07-13,Southeast,1
+2020-07-13,Southwest,2
+2020-07-14,Anchorage,4
+2020-07-14,Southeast,2
+2020-07-15,Anchorage,1
+2020-07-15,Gulf Coast,2
+2020-07-15,Interior,5
+2020-07-15,Southeast,2
+2020-07-16,Gulf Coast,4
+2020-07-16,Southeast,5
+2020-07-16,Unknown,1
