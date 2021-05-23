@@ -115,6 +115,17 @@ def read_reportdate():
 
     df_cases.to_csv('../data/parsed/report_date.csv', index=False)
 
+    return
+
+
+def read_vaccination():
+    """ read in vaccionation data
+    """
+
+    vacc_url = 'https://opendata.arcgis.com/datasets/722c84e36ad040c6a75fdec6b768b13f_0.csv'
+    df = pd.read_csv(vacc_url, parse_dates=['ADMIN_DATE'])
+    df.to_csv('../data/raw/vaccines.csv', index=False)
+
 if __name__ == '__main__':
     # parse_tests()
     parse_cases()
