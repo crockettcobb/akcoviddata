@@ -30,6 +30,7 @@ def parse_cases():
     '''
 
     case_url = 'https://opendata.arcgis.com/datasets/c1b6c31d09b44c33962570950456feea_0.csv'
+    
     df_cases = pd.read_csv(case_url, parse_dates=['OnsetDate'])
     df_cases.to_csv('../data/raw/cases.csv', index=False)
 
@@ -76,14 +77,15 @@ def read_reportdate():
     ''' Read and parse the cases counts for resident and nonresidents
     '''
 
-    case_url = 'https://opendata.arcgis.com/datasets/44002fca49af4d5e918174b6acdd92ea_0.csv'
-    df_cases = pd.read_csv(case_url, parse_dates=['ReportDate'])
+    # case_url = 'https://opendata.arcgis.com/datasets/44002fca49af4d5e918174b6acdd92ea_0.csv'
+    case_url = 'C:/Users/crock/Documents/GitHub/akcoviddata/data/raw/Cases_Data_B._Cases_Dataset_(02JUN2021).csv'
+    df_cases = pd.read_csv(case_url, parse_dates=['Report_Date'])
     df_cases.to_csv('../data/raw/cases.csv', index=False)
 
     cases_map ={
-        'ReportDate' : 'date',
-        'Econ_Name' : 'region',
-        'Resident' : 'resident',
+        'Report_Date' : 'date',
+        'BHR' : 'region',
+        'Resident__Y_N_' : 'resident',
     }
 
     df_cases = df_cases[list(cases_map.keys())].copy()
@@ -113,7 +115,7 @@ def read_reportdate():
     df_cases[['total', 'resident', 'nonresident']] = df_cases[['total', 'resident', 'nonresident']] .astype(int)
     df_cases['region'] = df_cases['region'].str.replace('Matanuska-Susitna', 'MatSu')
 
-    df_cases.to_csv('../data/parsed/report_date.csv', index=False)
+    df_cases.sort_values('date').to_csv('../data/parsed/report_date.csv', index=False)
 
     return
 
@@ -128,5 +130,5 @@ def read_vaccination():
 
 if __name__ == '__main__':
     # parse_tests()
-    parse_cases()
+    # parse_cases()
     read_reportdate()
