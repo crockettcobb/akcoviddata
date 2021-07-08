@@ -78,7 +78,8 @@ def read_reportdate():
     '''
 
     # case_url = 'https://opendata.arcgis.com/datasets/44002fca49af4d5e918174b6acdd92ea_0.csv'
-    case_url = 'C:/Users/crock/Documents/GitHub/akcoviddata/data/raw/Cases_Data_B._Cases_Dataset_(02JUN2021).csv'
+    # https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/datasets/27f7ccd99f264716b8ef08b9aac1cdbf_0/explore?showTable=true
+    case_url = 'C:/Users/crock/Documents/GitHub/akcoviddata/data/raw/Cases_Data_B._Cases_Dataset_(07JUL2021).csv'
     df_cases = pd.read_csv(case_url, parse_dates=['Report_Date'])
     df_cases.to_csv('../data/raw/cases.csv', index=False)
 
